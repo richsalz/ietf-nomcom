@@ -1,0 +1,163 @@
+IETF Chair
+
+The IETF Chair has six major roles: overseeing the work of the IETF as a
+whole, representing the IETF to the outside world, overseeing the work of the
+IESG in particular, serving as the General AD, serving as a voting member of
+the IAB, and (if appointed by the IESG) serving as an IETF Administration LLC
+Board member.
+
+Serving as IETF Chair requires a full-time or near-full-time commitment. A
+candidate for this position needs to be willing to put aside his or her own
+technical work and other major professional roles for the duration of the
+term.
+
+Chairing the IETF requires excellent communications skills, strong leadership
+skills, the ability and willingness to keep the community informed of all
+issues that are important to the IETF as a whole, the ability to establish
+community consensus on issues important to the IETF as a whole, and the
+ability to speak and act in accordance with that consensus. Among other
+things, this involves planning plenary sessions and leadership retreats and
+effectively running meetings with over 1000 attendees.
+
+In the IESG Chair role, the IETF Chair is responsible for coordinating the
+activities of the other ADs and providing top-level management for the IETF
+standards process. The IETF Chair must be capable of intervening when
+difficulties arise between ADs or between an AD and a WG Chair. The IETF Chair
+also oversees the handling of appeals sent to the IESG, the mechanisms for
+IESG internal process change, and the production of any statements issued by
+the IESG.
+
+The General Area consists of very few WGs and other activities focused on
+supporting, updating and maintaining the IETF standards development process.
+As General AD, the IETF Chair should meet the generic requirements for an IESG
+member listed above, and is expected to play a full role in IESG document
+review and approval. The General AD must also have a strong understanding of
+the IETF standards process and a commitment to maintain and improve that
+process. The General AD manages the General Area Review Team (Gen-ART); the
+Education, Mentoring, and Outreach (EMO) Directorate; the Tools Team; and the
+Tools Architecture and Strategy Team.
+
+The IETF Chair is a voting member of the Internet Architecture Board (IAB).
+The IAB has a long history, but the IAB is currently viewed as the senior
+committee working with the IETF to provide both architectural and oversight
+functions for the development of the Internet. The IETF Chair brings important
+perspective to the oversight of the RFC Editor, the IANA functions, and the
+liaison process with other SDOs.
+
+The IESG may choose to appoint the IETF Chair to the IETF Administration LLC
+Board. As a board member, the IETF Chair would have fiduciary responsibility
+to the LLC and would be involved in strategic planning, budget approval, and
+fundraising on behalf of the IETF LLC. Although day-to-day management of
+administrative matters is handled by the LLC staff, the IETF Chair will spend
+some time each week on administrative business, particularly in the context of
+ensuring the IETF is properly supported by its staff and contractors.
+
+The IETF Chair is asked to speak at numerous conferences and to represent the
+IETF to government officials, representatives of other standards bodies and
+the press. While the IETF Chair has control over which of these invitations he
+or she accepts, any candidate for this position should be willing and able to
+represent the IETF effectively in these fora, in consultation with the IAB
+Chair as appropriate.
+
+The IETF Chair needs to be able to lead and work with others on communications
+related to the IETF and its visions, values, work activities, and successes.
+This includes being able to lead the community through difficult, contentious
+discussions. It also includes answering requests to explain the IETF to people
+who are not familiar with it or its work. To do this, the IETF Chair uses
+different communication styles and methods than those needed to effectively
+lead and work with others within the IETF. For example, the IETF Chair may be
+asked to communicate with news media, help develop approaches for and use
+channels such as social media, and speak with non-technical audiences beyond
+the immediate IETF community.
+
+
+IESG Member (Generic)
+
+IESG members are the managers of the IETF standards process. They must
+understand the way the IETF works, recognize where the organization needs to
+evolve, be good at working with other people, be able to inspire and encourage
+other people to work together as volunteers, and have sound technical judgment
+about IETF technology and its relationship to technology developed elsewhere.
+
+Area Directors (ADs) select the Working Group (WG) Chairs, and then work with
+them to manage IETF WGs. Consequently, IESG members should possess sufficient
+interpersonal and management skills to manage 15 to 30 part-time people. Most
+ADs are also responsible for the management of one or more directorates or
+review teams. The ability to identify good leaders and technical experts, and
+then recruit them for IETF work and leadership at all levels is important.
+
+ADs are also expected to understand where there is a need to change either
+IETF processes or IETF's overall role, as the Internet and the industry around
+it evolves.
+
+An ideal IESG member has made significant technical contributions in more than
+one IETF Area. The Area Director role includes significant people management,
+for which prior experience chairing a working group will be useful  although
+other people-management experience may be a reasonable substitute. Similarly,
+the ability to review and usefully provide feedback on technical documents is
+a necessary skill for IESG members, for which serving on an area directorate
+or area review team would provide useful experience; active participation in
+working groups and other, non-IETF technical review activities can also be
+helpful in building such skills. Breadth of technical ability and the facility
+to quickly grasp concepts outside of their strongest areas are more important
+than specific technical expertise. Experience from a broad range of
+backgrounds across the entire IESG is desirable.
+
+An AD need not be the ultimate expert and authority in any technical area. The
+abilities to manage, to guide and judge consensus, to know who the
+subject-matter experts are and to seek their advice, and to mentor other IETF
+participants to take the technical lead is at least as important as their own
+technical abilities. Although the split varies from area-to-area, ADs can
+expect to spend approximately 30% of their time on management tasks, with the
+remainder being technical in nature.
+
+An AD should be able to personally review every Internet-Draft that they
+sponsor. For other Internet-Drafts an AD needs to be satisfied that adequate
+review has taken place, though many ADs personally review these documents as
+well. After the 2015 reorganization of IETF areas and IESG procedures,
+assignments of ADs to specific working groups are more flexible than they were
+previously, and can accommodate the expertise available in the IESG as a
+whole.
+
+It is very helpful for an IESG member to have a good working knowledge of the
+IETF document process as well as WG creation and chartering process. This
+knowledge is most likely to be found in experienced WG Chairs, but may also be
+found in authors of multiple documents. It is very helpful for an IESG member
+to have experience attending multiple IETF meetings, creating WG session
+agendas, supervising WG sessions, and helping to arrange interim WG meetings.
+
+IESG members must have strong oral and written communications skills. They
+must have a proven track record of leading and contributing to the consensus
+of diverse groups. They must be able to prioritize their work, and must
+reliably follow through and finish the important work items in a timely
+manner.
+
+An IESG member should be able to guide WGs to follow their charters and
+nurture new talent to fulfill IETF leadership roles in the future.
+
+Basic IESG activities can consume significant time during a typical
+non-meeting week. Enough time must be allocated to manage approximately 10 to
+15 working groups, to read on the order of 500 pages of internet-drafts every
+two weeks, and to follow up on document processing tasks. Many ADs allocate 15
+hours or more per week to such tasks. Some ADs have been able to combine
+significant other responsibilities with an AD role and/or delegate work to
+area directorates, while others put a larger proportion of their hours into AD
+responsibilities. A personal commitment is critical.
+
+The time commitment varies by Area and by month, with the most intense periods
+immediately before and during IETF meetings. ADs during their first year tend
+to spend more time per week on AD work. Practices vary widely between IESG
+members, however. Most IESG members also participate in additional IETF
+leadership activities, further increasing the time commitment for those
+individuals. ADs may need to interact with external groups such as other
+standards development organizations (SDOs), which may require additional
+travel. We have also found IESG member attendance at most IETF meetings to be
+imperative, typically arriving one or two days early and leaving one day later
+(for pre/post meeting activities). IESG members also attend one, and sometimes
+two, IESG retreats per year, as well as occasional workshops and interim
+meetings. An IESG member should ideally also be comfortable with working, and
+developing professional relationships, in a virtual environment.
+
+Because of the time and travel commitments, and awkwardly timed conference
+calls, IESG members have found that good personal motivation and family and
+sponsor support are important factors in making the role successful for them.

@@ -1,0 +1,166 @@
+=============================================================================
+IETF Chair Questionnaire
+=============================================================================
+
+Please return to nomcom-20@ietf.org no later than October 13, 2020, 23:59 UTC.
+
+This questionnaire is intended to provide the Nominating Committee
+with information to help select among nominees for the IETF Chair.
+
+The datatracker tools work best if you submit this in 77-column
+pre-wrapped ASCII, a la text/plain.
+
+-----------------------------------------------------------------------------
+
+CONFIDENTIALITY: NOTE that the contents of this questionnaire will
+remain absolutely confidential to the nominations committee process.
+For the IETF Chair, this means that it will be shared with the NomCom and
+with the confirming body, which is the currently sitting IAB.
+
+IMPORTANT: There is a section of this questionnaire labeled NOT FOR
+CONFIRMING BODY. You may elect to write some information that will not be
+shared with the confirming body. It will be kept absolutely confidential by
+the nominating committee.
+
+When multiple questions are asked within a numbered block, you may wish to
+provide a single answer that responds to that range of questions.
+
+Thank you!
+
+=============================================================================
+
+NOTE: Before providing answers to this questionnaire, please take into
+consideration the desired expertise for the IETF Chair position that can be
+found by clicking on the &quot;IETF Chair (Gen AD)&quot; tab on the NomCom 2020
+expertise page found at the following url:
+https://datatracker.ietf.org/nomcom/2020/expertise/
+and clicking on the IETF Chair tab.
+
+=============================================================================
+
+1. NAME AND CONTACT INFO
+
+Name:
+Affiliation:
+Consultants/Contractors, please provide the affiliation(s)
+of your primary customer(s).
+Email(s):
+Phone(s):
+Home Timezone: (for interview scheduling purposes)
+URL for resume:
+You may link to your resume, or include it below the text of the form.
+Do not use attachments to your email - they may be lost!
+
+=============================================================================
+
+2. EXPERIENCE AND LEADERSHIP
+
+Please explain your current experience related to the job
+description you are nominated for. Please cover relevant
+management training or experience. (Including: soft skills,
+management training, conflict resolution, leadership,
+inter-cultural, setting and implementing long-term strategic
+goals, and risk management).
+
+=============================================================================
+
+3. Diversity
+
+Please explain your thoughts on diversity. How would you suggest
+increasing diversity in the IETF community (including leadership
+positions), in the context of the position you are running for?
+Describe experience you have in working on diverse teams.
+
+=============================================================================
+
+4. IETF
+
+How can the value of the IETF to internal and broader technical
+community be improved (please comment on culture, operations, or
+other topics)?
+
+=============================================================================
+
+5. IETF Chair
+
+5.1 Please explain your understanding and ability to support the work
+load and travel associated with the position. Since IETF chair is 
+effectively a full-time position, do you expect to have secured
+funding for the duration of the term? 
+
+5.2 Explain the value you will bring to the role and how it will help
+enhance the mission of the IETF.
+
+5.3 Describe how you approach team building in a global volunteer
+organization.
+
+5.4 What is your vision for the IETF strategy for the next 5 to 10 years?
+What concrete steps would you take to make that happen? 
+
+5.5 How would you handle conflicts of interest between your personal
+employment or income sources and the interests of the IETF community?
+
+5.6 What communities and organizations (internal and external) do you 
+consider to be important to IETF?
+
+5.7 The IETF faces many challenges. What challenges do you think IETF
+will be facing in the coming years, and what approach would you take in
+tackling these challenges?
+
+=============================================================================
+
+5. IAB Role
+
+5.1 What do you see as the role of the IETF Chair as an IAB member? What
+activities would you like to pursue in IAB?
+
+5.2 As IETF Chair, understanding the standards ecosystem is important.
+What role do you see the IETF taking in the current Internet ecosystems and
+standards bodies? Which are the key SDOs and consortia that IETF should
+strongly cooperate with and why? What are your thoughts regarding ITU-T
+proposals for creating a new Internet architecture and protocols under 
+the control of ITU?
+
+=============================================================================
+
+6. IESG Role
+
+How do you see yourself working with the other Area Directors to coordinate
+work among the different stakeholders, resolve DISCUSS ballots, and deal with
+conflicts or competing interests related to DISCUSS disposition?
+
+=============================================================================
+
+7. LLC Board Role
+
+NOTE: RFC 8711 states that one of the LLC Board members shall be filled by 
+the &quot;IETF Chair or delegate selected by the IESG&quot;. 
+
+What do you see as the role of the IESG delegate to the LLC
+Board, in general and relative to funding the IETF, fundraising, building a 
+sustainable funding model, and working with legal counsel to address 
+organization-related legal and compliance issues? If you were the delegate, 
+what experience do you have in these areas?
+
+=============================================================================
+
+8. ADDITIONAL INFORMATION
+
+Is there any other information that you think is relevant to the
+NomCom's deliberation, but is not covered in the above?
+
+=============================================================================
+
+9. ADDITIONAL INFORMATION - NOT FOR CONFIRMING BODY
+
+Is there any other information you wish to share with the Nominating
+Committee that you do not wish to have shared with the IAB? Such information
+may include opinions or comments about individuals on various IETF leadership
+bodies (I*). It may include opinions about the direction of working groups,
+areas, or leadership bodies. These comments also may include elaborations on
+any of your above answers, if there are further aspects you would like to
+mention that you do not want shared with the IAB.
+
+END OF SECTION: NOT FOR CONFIRMING BODY
+
+=============================================================================
