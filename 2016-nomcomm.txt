@@ -1,0 +1,283 @@
+1. NAME AND CONTACT INFO
+
+Rich Salz
+Akamai Technologies
+rsalz@akamai.com
+rich.salz@gmail.com
+1 781 789 3974 (cell)
+EST5EDT
+Resume at:
+    --URL removed--
+
+2. EXPERIENCE AND LEADERSHIP
+
+I am an architect at Akamai, where I do security-focused designs and
+reviews. My goal is to make things more secure, but also simpler to
+configure. I also am a member of the OpenSSL development team, where
+some of my major contributions include project governance, code
+quality, and ease-of-use (e.g., the command-line apps).
+
+Previously I was a senior designer and developer. I have been working
+on security for more than 20 years, from large services (Akamai) down
+to appliances (IBM/DataPower) to a variety of failed start-ups. Many
+of these were/are on the leading edge of Internet security standards
+and Web Services.
+
+Throughout my career, then, I have been involved in both the
+specification of standards, and their implementation.  I know that
+because of my work on development and deployment, I have been able to
+positively influence many standards activities at places like IETF, W3C,
+and OASIS.
+
+Comparitively recently, I became co-chair of two IETF WG's, ACME and
+CURDLE.
+
+2.2 Name the two or three most important areas of technical work...
+
+I am a member of the OpenSSL development team.  It's value and
+importance should be obvious (positive and negative:)
+
+I developed the de facto standard implementation of NNTP.  While port
+119 has largely whithered in favor of 80, it was impressive at the
+time.
+
+I was heavily involved in the specification and implementation of
+various WebServices standards, most notably SOAP and the various
+WS-security related documents.  I still think the goal, as expressed
+by the IBM/Microsoft paper, https://www.w3.org/2001/03/WSWS-popa/paper51,
+is a noble one and could have ultimately led to a more open Web.
+
+2.3 How will you manage competing time ...
+
+My management chain (up to the VP level) fully supports me in this
+position and understands the time commitment.  From discussions I've
+had, I know Stephen has set a pretty high bar by reading all drafts
+that come to the IESG, and my goal is to match that, in relatively
+short time.
+
+2.4 Describe your experiences in any IETF cross-area work that you have
+undertaken.
+
+Various WG chairs and AD's have asked me to join design teams in order
+to help them address security issues that were (usually) found during
+IESG review.  I have done this for various documents in the CDNI and NTP
+WG's.  I am still involved in NTP security design group; it is really a
+suite of protocols, and presents some interesting challenges.
+
+2.5 If you are an incumbent or past AD ...
+
+n/a
+
+2.6 Consider the Co-AD(s) in the area in which you have been ...
+
+I would defer to Kathleen to set up an initial list, and then sync up
+with her at least before each IETF meeting to look at what needs to be
+rebalanced.  I want to strongly leverage the fact that we could easily
+meet in person. I would expect to give up my co-chair roles.  Other
+then that, I have no strong feelings or plans.
+
+2.7 Please indicate if you have experience being ...
+
+I am a member of the board of directors of my church, which has around
+250 members. We set budget (around $500K), personnel, policies, etc.
+I have been on the board for the high school band, which varies
+between 50-150 students and their families.  We set ancilliary budget,
+marshall volunteers, and fund-raise.
+
+From these organizations, I have seen that mutual trust and respect
+among the leadership is crucial.  Especially for a
+globally-distributed organization like the IETF, each member must feel
+comfortable relying on and deferring to others. Equally important,
+from the leadership to the general organization, the most important
+characteristic is transparency, both real and perceived.  The general
+membership must feel engaged, and that they know "what's going on."
+The recent Singapore fiasco shows how important this is.
+
+2.8 Soft Skills: Please comment on your soft skills ...
+
+I have worked in many startups, where things can get tense.  I have
+worked on many SDO groups where things can get tense.  I've lived
+several decades and raised three kids, which can get tense.
+
+In short, like anyone who has been around, I have a great deal of
+experience with tense experiences.  I'm a nice guy with a good sense
+of humor :) Everybody likes me.  Feel free to take that previous
+sentence as an example of my sense of humor, if you can't just take it
+as gospel.
+
+When things heat up, it is important to recognize the basic humanity
+of those on "the other side" and back off to take a break and let
+things cool down. I believe that I have enough self-awareness so that
+I am more often an actor that reduces conflict, then one who increases
+it.  I don't have a perfect record in this area; nobody does.
+
+As for working in groups, my preferred mode is to work bottom-up and
+build up agreement in small groups (even 1:1 as needed), and then move
+up to larger groups.  In the IETF for example, if a WG appears to be
+stuck I would first meet with the chairs, and then go out to the
+larger WG.
+
+I have been doing email since the UUCP days, when I got one of the
+first MX domains (mirror.tmc.com).  I understand its limitations.  I
+would often bend over backwards (stay up late/early) to enable
+voice-based communication when untangling notty situations.
+
+3. IETF
+
+I think the IETF can, and should, be the leading organization that
+defines the standards for different pieces of the Internet to
+communicate. It does this by writing specifications that makes sense to
+implement and deploy.
+
+Our biggest problem would seem to be that fast-moving Internet
+companies are not working with us.  I think that's a symptom, and that
+we need to become more representative of the Internet-using community,
+which is to say, more representative of the world.  As I said in my
+Berline IETF PK talk, look at what we use for video and remote
+participation compared to what the rest of the world does.  (Talks are
+at http://snaggletooth.akam.ai/Berlin-videos/; click Next until you
+get to "file 7")
+
+We are effective because we have global infrastructure companies
+heavily participating, and if we work on the lower layers (up through,
+say, JSON) it will get deployed.
+
+I am not sure how important it is to grow new work.  As Feynman said,
+there's plenty of room at the bottom. :)  I am not sure that I totally
+accept this view, but I do not think we are in a "grow or die" state.
+
+Better representation should naturally result in more work.
+
+Collaborating with similarly-old-schoool SDO's will not bring us more
+work that is vital or necessarily worth doing.
+
+I created the ietf-hub-boston mailing list and organized its first
+function.  I also  participated in some of the "hub" meetings at
+previous IETF's.
+
+4. IESG
+
+Background: The desired expertise for IESG positions is found at
+https://datatracker.ietf.org/nomcom/2016/expertise/
+
+4.1 What one item in this description do you find least ...
+
+I am not sure if the "match the cost" paragraph is accurate.  It seems
+to me that this cost trade-off has been left to the WG's, and that the
+AD role is oversight, and raising issues that have not come up before
+during the IESG phase.  This behavior seems reasonable to me.
+
+4.2 What one item in this description do you find most fully ...
+
+The overlap and intersection with the other areas.  I think Security
+has been unique in this so far, but as we are seeing things like QUIC
+collapsing the layers, we will see more of it.  It will be an
+interesting time for the IETF/IESG
+
+4.3 What one item ...
+
+Catcalling and drinking during the plenary? :)
+
+I think I would be best at working with my colleagues, and helping set
+and follow an overall direction.  I think it will be hard, at first,
+to set the right balance between authority/leadership and letting the
+WG's do what they want. I would expect to be more in hands-off mode at
+first, until I grow into the role.
+
+4.4 What would you suggest to shrink the time commitment ...
+
+I don't know.  I will be thinking about this as I start the job.  I
+think the security directorate has too much dead wood on it, and that
+we need to really increase the number of reviewers.
+
+4.5) How do you see area directorates aiding ADs for a particular Area?
+
+See above.  Perhaps getting more involved in "security area policy"
+would engage the directorate, but perhaps not.  I don't yet know.
+
+5. THE AREA
+
+5.1 What do you think is going well ...
+
+I think things are going pretty well.  We understand the threat of
+nation-state actors and are working to address it.  I see that QUIC
+will drive "TLS key exchange as a service" which could have a great
+deal of potential for use by other protocols.
+
+I like the renewed CFRG and the ability to use it as a "local expert"
+for other security work.
+
+5.2 What new work do you see likely to arrive in the area? 
+
+On the cryptographic level: new curves, post-quantum crypto.  On the
+more interesting level: move up the stack to thinks like DNS, NTP,
+etc..
+
+And of course, the current billion-dollar question: what about
+blockchain?  I don't know.
+
+I am inclined to more BoFs before a WG starts.
+
+6. INTERACTIONS WITH OTHER ADS
+
+6.1 DISCUSS ballots
+
+I would hope that before a DISCUSS is posted, there's an email and an
+offer to reach out and talk first.  I know that's not always possible,
+given timezones and the way reviews are likely to be deadline-driven.
+
+I have no specific hard-and-fast rules on when I would say DISCUSS.  I
+have a great deal of learning to do, and while I would generally defer
+to other areas, security (as mentioned in the expertise page) is a
+horizontal aspect.
+
+6.2 How do you see your role as an AD in moving documents ...
+
+Perhaps it's like a PhD defense, where the rest of the IESG is the
+committee.  Like I discussed above, trust in the WG means that I
+should able to argue "in favor" of the WG docs when they get to the
+IESG.  If I cannot do that, then I think I failed to properly work
+with the WG and its chairs.
+
+I have discussed the security directorate above.  I most definitely DO
+NOT see it as a QA review.
+
+7. TALENT AND CHAIR MANAGEMENT
+
+n/a
+
+8 CONFLICTS BETWEEN MANAGER ROLE AND TECHNICAL CONTRIBUTION
+
+I would expect to resign my WG chair positions.  Ironically, this
+might give me more freedom to talk "at the mic"  But I would not do
+so.  You cannot learn when your mouth is open.  And there are
+definitely people who might participate, but who are inhibited by the
+typical "free and frank" level of discourse at the IETF.  I have had
+meetings with China folks where I explicitly warned them about this.
+
+I will still be involved in implementations, and would stay current that way. 
+
+As for conflicts with the WG, I'd only be one.  If I'm in the rough
+and outside consensus, so be it.  There are very few areas that I feel
+so passionately that I would be even the slightest bit tempted to
+"cheat"  Since I am *strongly* in favor of transparency, it should be
+obvious if I am doing that, and I would hope to be called on it.
+
+For example, I am an Akamai employee, and they would be paying me to
+do this job.  As a result, I think using a hosted email solution is
+kind of a facade.  I would not do that.
+
+9. ADDITIONAL INFORMATION
+
+I know at least one other person who is running: ekr. He would be
+good, and I could not fault you if you choose him over me.  But I
+would be sad because it would close my window to be Security AD, as I
+will not run to be a second white male in this role.
+
+=============================================================
+
+10. ADDITIONAL INFORMATION - NOT FOR CONFIRMING BODY
+
+n/a
+
+END OF SECTION: NOT FOR CONFIRMING BODY

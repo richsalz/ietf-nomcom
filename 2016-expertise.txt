@@ -1,0 +1,42 @@
+The following comes from the "Security AD" tab of this URL:
+	https://datatracker.ietf.org/nomcom/2017/expertise/
+
+It is unfortunate that the tabs are not directly addressable.
+
+----------------------
+
+
+This is the summary of the required expertise for the position Security AD
+
+Security
+
+The Security Area primarily focuses on protocols that provide one or more
+security services -- integrity, authentication, confidentiality, and access
+control -- and on protocols operating on infrastructure that provides such
+security services. Many security mechanisms that are needed to provide these
+security services employ the use of cryptography. In addition to traditional
+security issues, the privacy and usability of IETF protocols has become an
+important consideration.
+
+Specific expertise required for a Security AD includes a strong working
+knowledge of IETF security protocols and mechanisms that have been developed
+in the Security Area, other Areas of the IETF, and outside the IETF. It is
+also important for Security ADs to understand the practical aspects of
+securing Internet resources, such as techniques for denial- of-service
+mitigation or for securing Web applications. A good understanding of threat
+modeling and risk assessment as well as operational and industry practices is
+also beneficial.
+
+Between the two Security ADs there will ideally be one who is knowledgeable
+about each of the following security protocols: PKIX, IPsec, TLS, SASL,
+GSS-API, EAP, CMS, and S/MIME. Ideally at least one AD should be knowledgeable
+about web security, threat and policy management, as well as system integrity
+(RFC4949).
+
+The Security Area intersects with all other IETF Areas, and the Security ADs
+are expected to read and understand the security implications of documents
+produced by all IETF Areas. Security ADs become personally involved and
+coordinate the involvement of other security experts in the work of other
+Areas. Broad knowledge of IETF areas and technologies and the ability to
+assimilate new information quickly are imperative for a Security AD.
+
