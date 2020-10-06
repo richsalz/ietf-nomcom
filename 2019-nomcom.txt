@@ -1,0 +1,196 @@
+Internet Architecture Board (IAB) Member
+
+Questionnaire for IAB Nominees
+==================================================================
+
+Please return to nomcom-19@ietf.org no later than October 15,
+2019, 23:59 UTC.
+
+This questionnaire is intended to provide the Nominating Committee
+with information to help select among nominees for the IAB.
+
+The datatracker tools work best if you submit this in 77-column
+pre-wrapped ASCII, a la text/plain.
+
+------------------------------------------------------------------
+
+CONFIDENTIALITY: NOTE that the contents of this questionnaire will
+remain absolutely confidential to the nominations committee
+process. For IAB nominees, this means that they will be shared
+with the NomCom and the ISOC Board of Trustees.
+
+NOTE that there is a section of this questionnaire labeled NOT FOR
+CONFIRMING BODY. In the case of the IAB, if you are chosen as a
+candidate for the position, the confirming body is the ISOC Board
+of Trustees. The section labeled NOT FOR CONFIRMING BODY will not
+be provided to the ISOC Board during the confirmation process. You
+may tell NomCom things that you wish not to be shared with the
+ISOC Board in the NOT FOR CONFIRMING BODY section. It will be kept
+absolutely confidential by the nominating committee.
+
+Thank you!
+
+------------------------------------------------------------------
+
+NOTE: Before providing answers to this questionnaire, please take
+into consideration the desired expertise for the IAB Member
+position that can be found at the following url:
+	https://datatracker.ietf.org/nomcom/2019/expertise/#pos-iab-member
+
+=============================================================
+
+1. Name and Contact Info
+Name:   Rich Salz
+Affiliation: Akamai Technologies, Inc.
+Email(s): rsalz@akamai.com, rich.salz@gmail.com
+Phone(s): +1 781-789-3974
+Home Timezone: EST5EDT
+URL for resume/linkedin/etc: https://tinyurl.com/rsalz-resume
+
+=============================================================
+
+2. Experience
+
+I have been a single individual contributor for a few decades. During that
+time, I am often working with others to make sure we're satisfying the
+requirements of whatever we're working on, while still encouraging creativity
+and innovation.  This obviously requires a mix of soft skills, including
+encouragement, patient discussion, and the like. The following paragraphs
+attempt to call out some particulary relevant experiences over the years.
+They are mostly in chronological order.
+
+I used to be a member of the OpenSSL steering committee, known as the OMC,
+which is OpenSSL's version of a board. Under my leadership we discussed key
+partnerships such as alignment with the Linux Foundation, and searched out and
+presented options about 501c3 membership. I also spearheaded efforts to reduce
+expenses, such as negotiating with the development staff, cutting needless
+expenses such as VOIP phones, and the like.  I was the major force behind the
+getting the project to move to the Apache 2 license. I drove the team to adopt
+a Code of Conduct.
+
+As an OMC member, I was also part of the small group of people who helped the
+project evolve from the shambles of Heartbleed, to the recipient of the
+Levchin Prize in 2018, "for dramatic improvements to the code quality of
+OpenSSL." (I mention this to show that I can do quality software engineering.)
+I have encouraged and mentored developers from Russia, China, and Germany, who
+are now official committers to the project.
+
+At one of our post-IETF discussions open to the Akamai technical community,
+someone pointed out that the panel consisted of a bunch of white men. At my
+urging, we used a portion of our registrations for under-represented
+employees.  I mention this to point out that I acknowledge while I am part of
+the historic majority, I recognize that I can still improve, and try to help
+others (in this case my employer) do so as well.
+
+A few years ago, I got the ietf-hub-boston mailing list created, to server as
+a focal point for technical and/or social meetings for people in the Boston
+area who participate in the IETF. Our first meetup was a well-attended
+retirement party for Scott Bradner (complete with cake); the tentative agenda
+for our next meeting includes an introduction to roughtime, and a presentation
+by John Klensin on "Does the IETF have a future?"
+
+Since before IETF 101, I have been part of the team revising and presenting
+the newcomer's tutorial, including pre-meeting Webinars.  As anyone who has
+attended these can confirm, I have been been quite emphatic during slides that
+say "be comfortable with who you are" and that "the IETF has a zero-tolerance
+policy for harassment."
+
+I have been active in encouraging Russian involvement in the IETF.
+There are now more than a half-dozen very active participants, including
+the co-leader of the PAKE evaluation group for the CFRG. There is also
+a Crypto Review Panel member.
+
+On the business front, in addition to OpenSSL finances, I have been the
+President of the Governing Board of my church, over 500 members with a
+$750,000 budget.
+
+=============================================================
+
+3. IETF
+
+I think the IETF should be the easiest way for people to collaborate and
+design open mechanisms to communicate over the Internet. We have long been
+the "best" way, but we are still working on the "easiest" part. This
+latter aspect has two parts:
+	- Making sure that every possible technical contributor feels that
+	they can work within the IETF; and
+	- Make sure that they know about us.
+The IETF should become almost as well-known as open source -- "we are the open
+source foundation for protocols." One possible way of doing this is to 
+have a presence at some large OSS-related events.
+
+I think "using GitHub" is an excellent thing. The IETF needs to be where the
+developers are. Toward that front, I am an active participant in the WUGH
+working group, have drafted some scripts to make integration easier, (at
+https://github.com/richsalz/ietf-gh-scripts) and am working on changes to
+Datatracker to make it easier to integrate URL's and external identities
+between IETF and things like GitHub, Gitlab, etc.  (It wouldn't be a real
+software discussion if I didn't mention code that isn't fully implemented
+yet.)
+
+I have participated in IASA 2 discussions, have been one of the few outside
+of the IETF LLC Board to review all proposed policies, and am participating
+in the RSE discussions and meetings.
+
+On and off, since the first Pekka-Kucha at IETF 96, I have raised concerns
+about the way Nomcom is picked. To summarize, "using a cryptographically
+strong PRNG to choose from a self-selected list does not get representative
+membership." Now that IASA is concluding, I would like to see us address this.
+
+=============================================================
+
+4. IAB
+
+I have spoken with a few members of the current IAB. I have full support
+from my management to spend the necessary time. Akamai recognizes that the
+IETF plays a vital role in the evolution of the open Internet.
+
+I think the IAB needs more involvement. I am not sure how to do that.
+I have attended a couple of workshops (MARNEW and ESCAPE), but the
+main involvement has been drinking alcohol during the plenary and maintaining
+a bad attitude. We should be more than that. One way to help is even
+more clarity between the IETF/IESG and the IAB.  I do not have specific
+ideas about this yet.
+
+=============================================================
+
+5. Cross Community Collaboration
+
+I hope to continue my involvement with newcomer's tutorials, schedule
+permitting. I will stay involved with WUGH. Depending on the venue,
+I could (help) present the newcomer's tutorial at other conferences.
+I am open to other opportunities as we work on this.
+
+=============================================================
+
+6. Mentoring and Participation
+
+I think we should strongly encourage AD's to always have two WG chairs,
+one experienced and one relative newcomer.
+
+I think we should hire a consultant firm to get better feedback on
+why people attend, and then stop.  The AMS surveys are okay, but I think
+there are professionals who can be more effective.
+
+Logistics are hard. We should think about co-hosting multi-WG interims
+with other conferences. We should continue to encourage ACM and others
+to have events co-located.
+
+==============================================================
+
+7. Additional Information
+
+I am a very strong believer in transparency. If there is confidential
+information, it should be expressed during the interviews.  This
+entire questionnaire, as with my previous attempts at Security AD, are on
+GitHub at https://github.com/richsalz/ietf-nomcom-2019
+
+==============================================================
+
+8. Additional Information - For NomCom Only
+
+None; this is all public.
+
+END OF SECTION: NOT FOR CONFIRMING BODY
+
+==============================================================
