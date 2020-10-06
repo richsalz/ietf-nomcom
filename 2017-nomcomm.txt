@@ -1,0 +1,409 @@
+=============================================================
+
+> 1. NAME AND CONTACT INFO
+
+Rich Salz
+Akamai Technologies, Inc
+rsalz@akamai.com
++1 781 789 3974 (cell)
+EST5EDT
+Resume at
+    https://docs.google.com/document/d/1CX1hkfiid-L9SsSmdl9pqUvJGhM4ZPhGB6nbEBxXdy8/edit?usp=sharing
+or, if HTTP to a third-party service is acceptable,
+    http://tinyurl.com/richsalz-resume
+
+> 2. EXPERIENCE AND LEADERSHIP
+
+Much of my professional work is summarized in my resume.  I will expand on
+the philosophy and approach.  My focus has been on privacy and integrity
+for data in transit (typically TLS) and data at rest (typically PKI/PKCS).
+I have not been heavily involved in IoT, other than as a bystander.
+
+At Akamai, I do security-focused designs and reviews. My goal is to make
+things more secure, but also simpler to configure.  I also am a member of the
+OpenSSL development team, where some of my major contributions include project
+governance, code quality, and ease-of-use such as the command-line apps and a
+script to find "doc nits" (the concept and name were taken directly from the
+IETF tooling).
+
+Previously I was a senior designer and developer. I have been working on
+security for more than 20 years, from large services (Akamai) to appliances
+(IBM/DataPower) to a variety of failed start-ups. Many of these are, or were,
+on the leading edge of Internet security standards and Web Services.
+
+Throughout my career, then, I have been involved in both the specification of
+standards, and their implementation.  Interop uber alles[1]. I have been a
+customer more than I have been a vendor, and I hate lock-in to propietary
+protocols and formats.  On the other side, if a bunch of engineers in a closed
+room design something that feels to meet real needs or cannot be implemented,
+that is just as bad.  I worry about secure BGP falling into an abyss similar
+to IPsec.
+
+I know that because of my work on development and deployment, I have been able
+to positively influence many standards activities at places like IETF, W3C,
+and OASIS.
+
+I am co-chair of three IETGF WG's: ACME, CURDLE, and DCRUP. I just realized
+that of them are focused on how to make modern cryptography applicable and
+usable.
+
+> 2.2  Name the two or three most important areas of technical work...
+
+OpenSSL is the one that is the most visible.  Its importance should speak for
+itself. I joined after heartbleed, and was part of the group that really
+resurrected the project. I got my employer to fund TLS 1.3 development so that
+it would be globally available. I did many (at one point, most) of the code
+reviews for the TLS 1.3 implementation in OpenSSL.
+
+Another visible one is INN, which became the default implementation of NNTP.
+While port 119 has largely vanished in favor of 443/80, it had a profound
+impact in its time.
+
+Akamai customers will see DV certs and ACME integration with LetsEncrypt. They
+will also appreciate "cipher profiles" which allowed Akamai to have a name for
+various cipher-sets and configuration, rather than hand-coded OpenSSL cipher
+strings. This allows Akamai and its customers to be more responsive when
+changes in cryptographic best practices are needed, or to more easily enable
+new features like PFS or TLS 1.3; simply choose from a pulldown.
+
+> 2.3 How will you manage competing time demands...
+
+My management chain has approved this.  Some of the early feedback I heard
+was, "will you still be able to work on OpenSSL?"  Yes :)  I am happy to work
+at a company that recognizes the importance of the IETF, particularly
+security, and is willing to put its money where its mouth is.
+
+If the question is more about "how will I prioritize when there's just too
+much work to do," that is slightly different.  I would focus on enabling
+working groups to get their job done, and then on IESG-specific tasks.
+
+> Are you willing and able to commit your time to complete IESG tasks...
+
+(Nit: this should have been 2.4, no?)
+
+Yes.  Regular "secdir" meetings show that I am one of the biggest reviewers,
+in terms of page counts.  While the stats don't show it, my reviews have
+almost always been done on-time.  If an AD can be on secdir, I will maintain
+this.  I have dialed in to a couple of IESG calls, and looked at the document
+flow. I think I am fairly well aware of the work, and amount of reading and
+study, involved.  I have much to learn.
+
+> 2.4 Describe your experiences in any IETF cross-area work...
+
+I am co-chair of a working group in applications, DRUP. I spent a fair amount
+of time at the past IETF "hanging out" with mail folks and learned a lot.
+I participate in NTP/TICTOC, providing my security and IETF experience (I
+think using "expertise" would be overstating it).
+
+I watched TCPENC try to decide between a well-defined protocol, and a vague
+statement of "just use TLS."
+
+Also, security is by its definition, cross-area.  I make it a point to attend
+some WG's that I am not normally involved with.
+
+> 2.5 If you are an incumbent or past AD...
+
+N/A
+
+> 2.6 Consider the Co-AD(s) in the area in which you have been
+
+I do not know as much about cryptography as my co-AD. But I think I think I
+have a better feeling for widespread use of security protocols and techniques
+as I am not browser-focused.
+
+For the first few months at least, I'm willing to be the junior member of the
+team.  My default answer to any division of labor would be okay, unless I felt
+strongly that there were conflicts of interest or other important issues.
+
+> 2.7 Please indicate if you have experience being on a Senior Management
+
+I have been part of the OpenSSL team for several years, since shortly after
+HeartBleed. I have been driving the efforts to change to the Apache2
+license, am the official contact between OpenSSL and LF/CII, and am also a
+fairly active developer and code reviewer. I wrote the code of conduct, and
+continue to be an activist for increased transparency within the project.
+
+For the third year, I am on the Governing Board of my church, the UU Church
+of Reading. It's annual budget is close to $400K, including salary for the
+minister and professional staff. The biggest challenge is how to manage a
+church and its budget, while maintaining a commitment to our principles
+of faith.  For example, we can't afford to pay Dental Insurance for all
+staff, and we don't want a two-tier benefit system.
+
+I am on the Board of the high school band parents organization (BPO).  This is
+my second year while supporting my youngest son; I have previously been on the
+board for three years supporting his two older brothers.  The BPO does
+fundraising and coordinating volunteers for the marching band and its events
+(e.g., parades). It has an annual budget of several tens of thousands of
+dollars.
+
+> Please share some of key skills and insights you gained...
+
+How to work with others, in a small group during stressful times, and how
+to show a uniform voice to the larger body.  How to think outside the box
+to address important issues.  Ways to motivate the larger community to 
+raise to challenges, without being defeatist.  There are no easy answers to
+these questions, nothing that will "just work" for most circumstances, but
+having had experience with these difficult situations is often enough to
+provide a leg up on finding answers.
+
+Most importantly, it is important to recall that during stressful times we are
+all seeking answers to the same goals, and even when we disagree it must be
+respectful; loss of comity is often worse than loss of revenue or membership.
+In addition to trust among the leadership, there must also be trust between
+the leadership and the general membership. In my view, that means that full
+transparency is important for people to feel they are engaged; they don't
+think so if they don't know what's going on.  The OpenSSL pre- and
+post-Heartbleed situations are excellent examples of this.
+
+> 2.8  Soft Skills:  Please comment on your soft skills
+
+There are two key points: step back and take a breath, and be honest.
+Almost no tactical solution is worth fracturing a longer-term strategic
+relationship.  I find humor helps a great deal.  I believe I have a good
+reputation as practical and honest, and would leverage that to have a full
+airing of all views, and come to a conclusion even if it means that some
+parties are "in the rough."
+
+I work very well with others.  I have made few enemies (that I am aware of)
+even though I have had many disagreements over the years.
+
+> 3.1 What do you see as the relationship between the IETF as a...
+
+At times I feel we are always running the risk of sliding into irrelevance.
+Our community is very non-diverse, including not just age, sex, and
+nationality, but also state of career development.  Many of those who
+participate "grew up" with the IETF. Where will the next generation come from?
+The mentoring and outreach programs are among our most important and we need
+to figure out how to expand their influence.
+
+At other times, I know that the Internet depends on us.
+
+At other times, in the wee small hours, I feel that it doesn't.  What would
+have happened to the Internet and the IETF if Google didn't bring SPDY and
+QUIC here, but instead launched separate consortia or just published documents
+and open source code?  I am sure that the technical individuals involved in
+these efforts wouldn't have wanted things to go that way, but what if it did?
+How can we make sure that such a risk doesn't harm the IETF or the Internet?
+I don't know.
+
+> 3.2 What one thing do you think is most significant in decreasing the...
+
+The risk that work that the Internet needs to be done isn't done here.
+It is very easy to create a foundation, throw some source and docs there, and
+invite everyone else to join. Depending on who starts it, it might even be
+wildly successful.
+
+We need to do timely specifications that can be implemented and address
+real-world problems.
+
+> 3.3 What one thing do you think increases the IETF's effectiveness as
+
+Our ability to publish high-quality technical specifications that have a
+broad consensus behind them.
+
+> 3.4  How do you think the IESG should select and grow new work in the...
+
+Kathleen explained to me that sometimes we create WG's just to bring new blood
+into the organization. I am still trying to wrap my head around that.  It
+makes sense, even if it ends up with WG's that don't produce anything useful.
+Our sweet spot is "the bytes on the wire" and the more we stray from that
+bright clear line the more we end up having irrelevant WG's.
+
+If it involves pushing bytes over the Internet, or perhaps home networks, it
+is relevant to us.  IoT is clearly relevant, and also clearly problematic.
+I am not sure what else at this point. But I do know that I am a pretty
+creative person, and while I won't invent a breakthrough, I am sure that I can
+help figure out how to bring additional people and work into our wheelhouse.
+
+> 4. IESG
+
+> 4.1 What one item in this description do you find least like the...
+
+The list of expertise is outdated.  It doesn't mention OAUTH, for example,
+and does mention CMS and S/MIME which are basically the same thing.
+
+> 4.2 What one item in this description do you find most fully typifies...
+
+The final paragraph:
+  The Security Area intersects with all other IETF Areas, and the Security ADs
+  are expected to read and understand the security implications of documents
+  produced by all IETF Areas. Security ADs become personally involved and
+  coordinate the involvement of other security experts in the work of other
+  Areas. Broad knowledge of IETF areas and technologies and the ability to
+  assimilate new information quickly are imperative for a Security AD.
+
+> 4.3 What one item would you be most likely to succeed at? What one...
+
+My guess, not having done the job, is that I will be best at broad knowledge
+and understanding implementation and deployment issues.  My weakness will be
+having an understanding of all the minute details of particular crypto
+mechanisms.  (But I know enough to use the jargon word mechanism, where to
+look it up, and who the experts are that can educate me.)
+
+> 4.4 What would you suggest to shrink the time commitment of the Area...
+
+Again, not having done the job I am not sure.  Perhaps adding a third member.
+
+> 4.5 How do you see area directorates aiding ADs for a particular Area?...
+
+They are excellent at providing detailed review of RFC's.  I have seen this
+first-hand.
+
+I think commenting on potential new work, as is done in Transport, is a good
+thing. I am less sure about process.
+
+> 4.6 Is there one specific thing that you would like to accomplish during...
+
+Even more collaboration between the security Area and the other areas.  More
+emphasis on pulling newcomers into the fold.
+
+> 5.1 What do you think is going well in the area for which you have..
+
+I think Security produces technically-sound documents.  I find it jarring when
+an IESG votes "no objection" and then provides pages of commentary (this is a
+comment on the IESG, not the Security AD's specifically).
+
+I don't think the AD should be thought of as the 800lb senior tech member of
+all WG output.  But I appreciate that the job should be more than just
+process.  I am not sure how to balance the two.  As long as the WG members and
+chairs feel things are going well, then it might be okay.  It might all come
+down to trust.  I am not sure.
+
+If selected, I would work with the existing AD's to understand which WG's they
+think are running well, and which ones are having problems.  And then work
+with the WG chairs to address the problems, or perception of problems.  I
+know that it a "well, duh" kind of answer, but I don't have any insider
+information to know what the problems might be, and without knowing details,
+am unwilling to promote any solution. I'll just have to trust that my charm
+and good looks, not to mention my low-key sense of humor, will help us come to
+the solutions needed.
+
+> 5.2 What new work do you see likely to arrive in the area?...
+
+We need to figure out something to do for IoT, even if it's just
+strengthening the "border defenses."  The home router should probably be
+enhanced so that it is not just a Maginot line. Maybe that's as simple a
+matter as changing defaults in some protocols, maybe more is needed.  We need
+to look at it because the devices themselves are so numerous, and the cost
+margins so razor-tight, that expecting them to behave nicely, and securely, is
+probably not going to work.
+
+Blockchain is interesting, and still among the new hotness, but I don't see
+much work for us until it becomes "bits on the wire."  Perhaps something about
+distributed ledgers.  We were already able to influence one DL company (who
+came and presented) to use standard data structures for their contracts.
+
+As a general rule, I think the "bar BoF" to BoF to WG makes a lot of sense.  I
+also think it's reasonable to short-circuit that path when the IESG thinks so.
+
+> 6. INTERACTIONS WITH OTHER ADs
+
+> 6.1 DISCUSS ballots
+> What would be your criteria for voting DISCUSS on a document from another...
+
+Before going on the record I would probably talk with the responsible AD to
+let them know, and to see if my concerns are misplaced.  I do not think
+DISCUSS must be a veto; if the IESG consensus is that the issues being raised
+are acceptable, or even not issues, then the proper thing to do is probably
+withdraw the DISCUSS or just OBJECT.
+
+> If another AD votes DISCUSS on a document in your area, how would you
+> like to see the process for resolving that?
+
+"Do unto others."  Same as I described above.
+
+> 6.2 How do you see your role as an AD in moving documents through the...
+
+I have never heard that early reviews were thought of as QA reviews; that's
+interesting, and implies a differing set of evaluation criteria. If so, I
+think that's a bug that needs to be fixed.
+
+I would rely heavily on the secdir reviews, but not solely.  I think having a
+guarantee that at least one person read the I-D is important.  If chosen, I
+think it would be more for my technical and soft skills talents then in my
+ability to handle workflow.  Perhaps the IETF should consider professional
+project management to help with that, which also might relieve some of the AD
+burden.
+
+
+> 7. TALENT AND CHAIR MANAGEMENT
+
+> If you're a past or present AD, please describe your experience in these
+> tasks, and how you'd change your approach if selected.
+
+N/A
+
+> 8 CONFLICTS BETWEEN MANAGER ROLE AND TECHNICAL CONTRIBUTION
+
+> 8.1 As an Area Director, to what degree will you expect to remain a...
+
+I would not expect to contribute much in the WG's where I am the responsible
+AD.  I would keep vibrant (that's a nice word) through my day job (have I
+mentioned that this includes OpenSSL and other real dev/deploy issues)
+and be making a strong effort to be aware of everything the IETF is working
+on.
+
+> 8.2 How will you balance your management and technical responsibilities...
+
+As I said above, I don't believe that being an AD means that you become the
+main technical voice, with veto power, over the documents produced by all WG's
+in your Area.  If I think something goes against other IETF (policy)
+documents, I would point that out. If the WG proceeds, I would point out the
+conflicts during IESG review.
+
+If there are WG's that I feel particular involved in, I would try to not be
+the AD for that/those groups.  TLSWG is the most likely group, but clearly ekr
+could not be the responsible AD.  I believe the remaining issues in that group
+don't require technical contribution from me, so I will make sure that
+anything I say is clearly my personal opinion and not as an AD.  There is, of
+course, an exception to that, which is the recent "share the keys" drafts.
+
+> 8.3 Employers, trade associations and other groups with which an Area...
+
+As long as there is full transparency, I have no problem.  I hate hidden
+agenda's, just like I hate it when politicians directly lie to my face.
+
+As for me, I have a long-time personal history of ethical and transparent
+behavior, and I will not put that at risk.
+
+My employer is in favor of me doing this, not because they have an agenda
+they wish me to pursue, but because they can afford to spend the resources to
+help improve the Internet.
+
+> 9. ADDITIONAL INFORMATION
+
+> Is there any other information that you think is relevant to the
+> NomCom's deliberation, but is not covered in the above?
+
+No.  I am happy to field questions or comments.  I will assume that I can post
+them in the repo unless explicitly asked to not do so.  I hope for an honest
+and public dialog with anyone who cares.
+
+In fact, let me comment on this:
+
+> CONFIDENTIALITY: NOTE that the contents of this questionnaire will
+> remain absolutely confidential to the nominations committee process.
+> For the IESG, this means that it will be shared with the NomCom and
+> with the confirming body, which is the currently sitting IAB.
+
+	I think this is wrong.  I think candidate statements should be
+	part of the public record.  This statement can be found at
+	https://github.com/richsalz/ietf-nomcom-2017
+
+	I do not know how to make that information public, without
+	spamming the entire IETF and/or sounding like a conceited
+	ass who feels they are entitled to spam the entire IETF.
+	Perhaps there should be a general public "nomcomm-discuss"
+	mailing list.
+
+
+Footnotes:
+
+[1] Yes it should be u-umlaut.  I don't know how to do that in a
+    vi-edited text document on a Mac.  Consider that a meta-comment on the
+    state of internationalization, if you will.
+
+> 10. ADDITIONAL INFORMATION - NOT FOR CONFIRMING BODY
+
+Everything in this document is public as I said above.

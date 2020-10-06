@@ -1,0 +1,233 @@
+Thank you for accepting your nomination for the position of Security AD.
+
+Please complete and return the questionnaire for this position at your earliest opportunity.
+The questionnaire is now available and is included below for your convenience.
+
+--------
+
+
+
+         IESG Questionnaire for the Area Director position(s)
+============================================================
+
+Please return to nomcom-17@ietf.org no later than October 13, 2017, 23:59 UTC.
+
+This questionnaire is intended to provide the Nominating Committee
+with information to help select among nominees for the IESG.
+
+The datatracker tools work best if you submit this in 77-column
+pre-wrapped ASCII, a la text/plain.
+
+--------------------------------------------------------------------------
+
+CONFIDENTIALITY: NOTE that the contents of this questionnaire will
+remain absolutely confidential to the nominations committee process.
+For the IESG, this means that it will be shared with the NomCom and
+with the confirming body, which is the currently sitting IAB.
+
+IMPORTANT: There is a section of this questionnaire labeled NOT FOR
+CONFIRMING BODY. You may elect to write some information that will not
+be shared with the confirming body. It will be kept absolutely
+confidential by the nominating committee.
+
+When multiple questions are asked within a numbered
+block, you may wish to provide a single answer that responds to that range of
+questions.
+
+Thank you!
+=============================================================
+
+1. NAME AND CONTACT INFO
+Name:
+Affiliation:
+    Consultants/Contractors, please provide the affiliation(s)
+    of your primary customer(s)
+Email(s):
+Phone(s):
+Home Timezone:   (for interview scheduling purposes)
+Other contact information:
+URL for resume:
+You may link to your resume, or include it below the text of the form.
+Do not use attachments to your email - they will be lost!
+
+
+2. EXPERIENCE AND LEADERSHIP
+
+2.1 Please describe the following:
+
+- Current position and area of work
+- Educational, professional, and research background
+- Work related to the IETF and other standards organizations
+- Work related to internet governance Leadership roles, current and past, in
+   professional and volunteer organizations (including scope and scale).
+
+If this information is already included in your resume, you can just point to that.
+
+2.2  Name the two or three most important areas of technical work you are now
+  involved in, and provide a brief (one or two sentences) explanation of why
+  you consider this work valuable or important.
+  
+2.3 How will you manage competing time demands between your primary work and
+the responsibilities of being an AD?
+
+The minimum time required to participate fully in the IESG is detailed
+in the job description. There is no upper limit to the time you can
+spend.
+
+Are you willing and able to commit your time to complete IESG tasks on
+a regular basis?
+
+2.4 Describe your experiences in any IETF cross-area work that you have
+undertaken.
+
+2.5 If you are an incumbent or past AD, what aspects of your work do
+you think you could improve to become a better AD?
+
+2.6 Consider the Co-AD(s) in the area in which you have been
+nominated: how do your skills and background complement that of the
+Co-AD(s)? What are your thoughts on dividing the Area's work between
+yourself and the Co-AD(s)?
+
+2.7 Please indicate if you have experience being on a Senior Management
+team for a volunteer organization or a commercial organization.
+
+Please share some of key skills and insights you gained from this
+experience?
+
+2.8  Soft Skills:  Please comment on your soft skills relating to conflicts
+(tasks conflict or relationship conflicts), team work, and task interaction.
+
+
+3. IETF
+
+3.1 What do you see as the relationship between the IETF as a
+standards body and the wider technical community?
+
+3.2 What one thing do you think is most significant in decreasing the
+IETF's effectiveness as a standards body?
+
+3.3 What one thing do you think increases the IETF's effectiveness as
+a standards body?
+
+3.4  How do you think the IESG should select and grow new work in the
+IETF? This should include BOFs, new Working groups, and remote participation in
+IETF. Please include any new ideas you have for growing new work in the IETF.
+
+
+4. IESG
+
+Background: The desired expertise for IESG positions is found at
+   https://datatracker.ietf.org/nomcom/2017/expertise/
+
+4.1 What one item in this description do you find least like the
+actual AD role as you see it performed today?
+
+4.2 What one item in this description do you find most fully typifies
+the actual AD role as you see it performed today?
+
+4.3 What one item would you be most likely to succeed at? What one
+item would be most likely to fail at?
+
+4.4 What would you suggest to shrink the time commitment of the Area
+Directors?  If selected, what would you do to shrink your required
+time commitment?
+
+4.5 How do you see area directorates aiding ADs for a particular Area?
+What do you believe the scope of an area directorate should be?  Should it
+include review of documents, review of new work, or review of process?
+
+4.6 Is there one specific thing that you would like to accomplish during
+your term (if selected)?
+
+
+5. THE AREA
+
+5.1 What do you think is going well in the area for which you have
+been nominated? What aspects of the area need improvement, including
+the key topics that need to be addressed? What actions should be
+taken to address these issues? Are there some working groups that
+will receive your special focus and why?
+5.2 What new work do you see likely to arrive in the area? Describe
+how you would guide new work (BOFs, Bar BOFs, side-meetings etc.)  in
+your area so that it leads to meaningful IETF work.
+
+6. INTERACTIONS WITH OTHER ADs
+
+6.1 DISCUSS ballots
+What would be your criteria for voting DISCUSS on a document from another area?
+How would you like to see the process for resolving that?
+
+If another AD votes DISCUSS on a document in your area, how would you
+like to see the process for resolving that?
+
+6.2 How do you see your role as an AD in moving documents through the
+approval process? How do you see your role as an AD in moving protocols
+forward through the process to full standard?
+  How do you see the purpose of early reviews (sometimes denoted as quality
+  assurance (QA) reviews by directorates or final reviews by directorates in
+  this process?
+
+
+7. TALENT AND CHAIR MANAGEMENT
+If you're a past or present AD, please describe your experience in these
+tasks, and how you'd change your approach if selected.
+
+7.1 What will be your approach to the selection of Working Group chairs,
+including trade-offs and concern for conflicts of interest? How will you
+approach the development of new talent and leadership in your Area?
+
+7.2 How will you coach chairs to be effective in their jobs? What criteria
+will you use for determining when a chair is not performing well? Please
+consider both a situation in which one co-chair is under-performing while the
+other chair picks up the slack and a situation in which both chairs are
+under-performing. How will you deal with chairs who are not performing well?
+How will you deal with a Working Group that is not performing well despite
+heroic attempts by the chair(s)?
+
+7.3 How would you guide the WG chairs in your IETF
+area to manage the meeting time well?
+
+7.4 How would you deal with two co-chairs who have a relationship conflict
+or who are having a conflict over the way to do the WG tasks?
+
+
+8 CONFLICTS BETWEEN MANAGER ROLE AND TECHNICAL CONTRIBUTION
+
+8.1 As an Area Director, to what degree will you expect to remain a
+technical contributor in your area? Do you have thoughts on how you might
+keep technically current and active while addressing your new IESG time
+commitments?
+
+8.2 How will you balance your management and technical responsibilities as
+Area Director? How should you handle a situation in which your own technical
+preferences differ from those of working group consensus?
+
+8.3 Employers, trade associations and other groups with which an Area
+Director is affiliated often wish to pursue their own agendas in the
+IETF. How should you handle this with respect to your responsibility to act
+as an individual rather than a representative, in the IETF?
+
+
+9. ADDITIONAL INFORMATION
+
+Is there any other information that you think is relevant to the
+NomCom's deliberation, but is not covered in the above?
+
+=============================================================
+
+
+10. ADDITIONAL INFORMATION - NOT FOR CONFIRMING BODY
+
+Is there any other information you wish to share with the Nominating
+Committee that you do not wish to have shared with the IAB? Such information
+may include opinions or comments about individuals on various IETF leadership
+bodies (I*). It may include opinions about the direction of working groups,
+areas, or leadership bodies. These comments also may include elaborations on
+any of your above answers, if there are further aspects you would like to
+mention that you do not want shared with the IAB.
+
+
+END OF SECTION: NOT FOR CONFIRMING BODY
+
+=============================================================
+
