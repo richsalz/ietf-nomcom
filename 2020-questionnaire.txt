@@ -47,7 +47,7 @@ and clicking on the IETF Chair tab.
 >Email(s): rsalz@akamai.com
 >Phone(s): +1 781 789 3974
 >Home Timezone: (for interview scheduling purposes) EST5EDT
->URL for resume: <XXX>
+>URL for resume: https://github.com/richsalz/ietf-nomcom/blob/main/2020-resume.pdf
 >You may link to your resume, or include it below the text of the form.
 >Do not use attachments to your email - they may be lost!
 
