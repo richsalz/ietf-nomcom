@@ -62,6 +62,46 @@ and clicking on the IETF Chair tab.
 >inter-cultural, setting and implementing long-term strategic
 >goals, and risk management).
 
+I have mostly been an individual contributor in software development.  During
+this time, I have often had interns that I was responsible for; I took time
+to give them useful projects and experience.
+
+As a senior individual contributor, I often have to convince product
+management or colleagues to agree to my proposals. Since I am a peer, or
+lower down in the management chain, I could never just order something to be
+done. This also holds true for when I am the technical lead, working with
+programming peers. This involves negotiating, explaining the business case or
+potential upside, and the like.
+
+I have often been part of important customer briefing, where I have to draw a
+line given just the necessary disclosure. I had to be an engaging and
+forthright speaker. I am good at it. In various start-ups I was usually one
+of the prime technical people brought in to prove our competence.  (This
+happened again, just yesterday.)
+
+I have had many sessions of management training, conflict resolution, project
+management, and the like.
+
+For several years I served on the Board of Directors of my church, including
+one year as President. Here we dealt with personnel issues, budget concerns
+(i.e., there was never enough pledge money), and things like conducting a
+search for a new minister.
+
+During the time I was part of the OpenSSL leadership, I tended to focus on
+the the project infrastructure and non-cryptographic coding. By cleaning out
+old defects, re-organizing the website, and implementing things like standard
+ways of doing CI and code reviews, I helped moved OpenSSL from the fiasco of
+HeartBleed, to winner of the Levchin prize four years later.  I also led the
+work to get the source code relicensed under the Apache license; as an
+example of transparency, you can see documentation on that at
+https://www.openssl.org/blog/blog/categories/license/
+
+As Truman says, "it is amazing what you can accomplish if you do not care who
+gets the credit."  I have experienced this first hand with my best managers,
+and I have lived it with my professional and personal life.  I feel most
+fulfilled, and the system works best, when everyone involved can do their
+best job.
+
 =============================================================================
 
 >3. Diversity
@@ -70,6 +110,8 @@ and clicking on the IETF Chair tab.
 >increasing diversity in the IETF community (including leadership
 >positions), in the context of the position you are running for?
 >Describe experience you have in working on diverse teams.
+
+
 
 =============================================================================
 
@@ -88,17 +130,76 @@ and clicking on the IETF Chair tab.
 >effectively a full-time position, do you expect to have secured
 >funding for the duration of the term? 
 
+Yes. I have spoken with Alissa about the travel she used to do before the
+lockdowns. I then contacted people I know who regularly attend those
+meetings, and got information about the length and venue. From that, and
+using my previous travel as a guide, I prepared a very rough cost estimate.
+My management fully supports my nomination, and will fund the travel.  A
+snapshot of the worksheet is available at
+https://github.com/richsalz/ietf-nomcom/blob/main/2020-travel.pdf. It is
+interesting to think about how we can remove this potential barrier to
+leadership participation, which is why I am making it available.
+
+Akamai sees indirect value were I to become the Chair. Akamai does better
+when the Internet does better. We have a history of investing in projects
+that don't directly contribute to our bottom line, including the funding
+of TLS 1.3 with OpenSSL, and being a founding sponsor of LetsEncrypt.
+Akamai has no agenda or designs on the IETF, and knows we all do best
+when we collaborate.
+
 >5.2 Explain the value you will bring to the role and how it will help
 >enhance the mission of the IETF.
 
+I bring an understanding of how the IETF works. Previously, I have also been
+involved with other SDO's, including W3C, OASIS, and OMG, so I know how they
+work and am able to compare and contrast. My involvement in these,
+particularly for W3C and OASIS, was driven by the need to implement the
+standards in commercially-succesful products. I am not a professional
+standards person, I am an implementor who needs standards to succeed.
+
 >5.3 Describe how you approach team building in a global volunteer
 >organization.
+
+First, things are different now. That is both a problem, but also an
+opportunity.  We have all become used to video meetings, which brings
+its own issues. Among them is that while a would-be participant could get
+funding to attend a one-time IETF meeting, it is probably harder for them ton
+get funding for better connectivity for a long period, even if the
+infrastructure exists. Because of this saying "we're all doing videoconf now"
+still leaves out a pool of contributors. I think we need to make sure we
+allow, and perhaps encourage, other "asynchronous" communication systems.
+
+I have no real doubt that in-person face to face helps make things run more
+smoothly, and it's obvious that many of us are eager to be able to get back to
+that. My personal experience has been that global teams start best with
+in-person meetings, and I don't know how to reconcile that with the current
+situation, nor how to think about the issue I raised above.
+
+Perhaps figuring out how to socialize over video will help.  I am not sure.
 
 >5.4 What is your vision for the IETF strategy for the next 5 to 10 years?
 >What concrete steps would you take to make that happen? 
 
 >5.5 How would you handle conflicts of interest between your personal
 >employment or income sources and the interests of the IETF community?
+
+The first step is transparency. For a long time, I have been a believer in
+the Justice Louis Brandeis quotation that "If the broad light of day could be
+let in upon men's actions, it would purify them as the sun disinfects." When
+I was part of OpenSSL's leadership, I created the "policy" section of the
+website, and drafted items like the travel policy.
+
+The second step is to avoid conflicts if at all possible. In my case, this
+would be making sure I understand the interests of the IETF and Akamai. I
+have been involved with the IETF for years (my name first appears in RFC
+2616), and employed by Akamai for nearly a decade.  I feel confident saying
+that I know what both parties do, how they do it, and what their interests
+are.
+
+Should a conflict be discovered, the third step is honest and respectful
+discussion. Some type of recusal might be necessary. I cannot speculate on
+what actions might be required because I cannot imagine any type of problem
+arising.
 
 >5.6 What communities and organizations (internal and external) do you 
 >consider to be important to IETF?
@@ -128,6 +229,8 @@ and clicking on the IETF Chair tab.
 >How do you see yourself working with the other Area Directors to coordinate
 >work among the different stakeholders, resolve DISCUSS ballots, and deal with
 >conflicts or competing interests related to DISCUSS disposition?
+
+I believe the IESG Cha
 
 =============================================================================
 
