@@ -31,7 +31,7 @@ Thank you!
 
 NOTE: Before providing answers to this questionnaire, please take into
 consideration the desired expertise for the IETF Chair position that can be
-found by clicking on the &quot;IETF Chair (Gen AD)&quot; tab on the NomCom 2020
+found by clicking on the "IETF Chair (Gen AD)" tab on the NomCom 2020
 expertise page found at the following url:
 https://datatracker.ietf.org/nomcom/2020/expertise/
 and clicking on the IETF Chair tab.
@@ -64,7 +64,7 @@ and clicking on the IETF Chair tab.
 
 I have mostly been an individual contributor in software development.  During
 this time, I have often had interns that I was responsible for; I took time
-to give them useful projects and experience.
+to give them useful projects and experience and act as a mentor.
 
 As a senior individual contributor, I often have to convince product
 management or colleagues to agree to my proposals. Since I am a peer, or
@@ -73,14 +73,16 @@ done. This also holds true for when I am the technical lead, working with
 programming peers. This involves negotiating, explaining the business case or
 potential upside, and the like.
 
-I have often been part of important customer briefing, where I have to draw a
-line given just the necessary disclosure. I had to be an engaging and
+I have often been part of important customer briefings, where I have to draw
+a line giving just the necessary disclosure. I had to be an engaging and
 forthright speaker. I am good at it. In various start-ups I was usually one
 of the prime technical people brought in to prove our competence.  (This
 happened again, just yesterday.)
 
 I have had many sessions of management training, conflict resolution, project
-management, and the like.
+management, and the like. Many years ago at the Open Software Foundation
+this type of thing was central because the industry sponsors had all the money
+and development resources, and we had to work to get them to work together.
 
 For several years I served on the Board of Directors of my church, including
 one year as President. Here we dealt with personnel issues, budget concerns
@@ -88,13 +90,16 @@ one year as President. Here we dealt with personnel issues, budget concerns
 search for a new minister.
 
 During the time I was part of the OpenSSL leadership, I tended to focus on
-the the project infrastructure and non-cryptographic coding. By cleaning out
-old defects, re-organizing the website, and implementing things like standard
+the project infrastructure and non-cryptographic coding. By cleaning out old
+defects, re-organizing the website, and implementing things like standard
 ways of doing CI and code reviews, I helped moved OpenSSL from the fiasco of
-HeartBleed, to winner of the Levchin prize four years later.  I also led the
-work to get the source code relicensed under the Apache license; as an
-example of transparency, you can see documentation on that at
-https://www.openssl.org/blog/blog/categories/license/
+HeartBleed, to winner of the Levchin Prize just a few years later.  I also
+led the work to get the source code relicensed under the Apache license; as
+an example of transparency, you can see documentation on that at
+https://www.openssl.org/blog/blog/categories/license/  Finally, to show my
+awareness of non-profit issues, I led the work to determine if OpenSSL should
+become a part of the Linux Foundation, the Internet Software Collaborative,
+Apache Foundation, etc.
 
 As Truman says, "it is amazing what you can accomplish if you do not care who
 gets the credit."  I have experienced this first hand with my best managers,
@@ -111,7 +116,28 @@ best job.
 >positions), in the context of the position you are running for?
 >Describe experience you have in working on diverse teams.
 
+The first principal of my faith is that we believe in "The inherent worth and
+dignity of every person." We are a unique and varied species, and we
+sometimes forget that we have more in common than not. One of the things that
+is becoming more common is use of the Internet. The IETF should strive to be
+more representative of the world. While I have problems with RFC 8890, it
+presents an excellent statement. Sadly, right now the IETF often looks more
+like a colonial empire than something like the UN.
 
+For a long time, Akamai has quietly been working to make its staff more
+diverse; since the start of the unrest around Mr. Floyd, we have been more
+public in that. Before Akamai, IBM was a leading employer and force for
+diversity and respect.  I have worked on diverse teams for a long time,
+including race, gender, and others, and it's great. I've recently been able
+to listen in on discussions about abused populations and the impact of some
+software and it was an eye-opener.
+
+I made a very small pull request to OpenSSL that changed to more inclusive
+language; https://github.com/openssl/openssl/pull/12089.  After much
+dicussion, the project decided to vote. After the PR was voted down, I left
+the project because I could not be a part of something that did not hold
+those values. I currently work on it to meet only Akamai's needs, but frankly
+my heart isn't in it and I can't wait to be completely done.
 
 =============================================================================
 
@@ -120,6 +146,24 @@ best job.
 >How can the value of the IETF to internal and broader technical
 >community be improved (please comment on culture, operations, or
 >other topics)?
+
+The mission statement is an accurate description of what we should be doing.
+We need to make sure that anyone with an interesting idea for an Internet
+protocol will feel welcome to bring it forward, and continue to feel welcome
+even if their idea has already been considered and dropped. Working on that
+last part is hard, and perhaps requires more soft skills than many in our
+industry have. It is also exacerbated by email (to say nothing of social
+media alternative), and it would be good to talk about what to do.
+
+Another part of the problem is easier. We need to make sure that the IETF is
+broadly known, and the first thing someone thinks about when thinking about
+Internet protocols and operations.
+
+(Further discussion below in 5.3)
+
+There are also tactical things that need to be addressed, such as managing the
+RFC process, determining if there is language we should be avoiding, and so
+on. When and how to meet directly is probably a mix of tactical and strategic.
 
 =============================================================================
 
@@ -140,7 +184,7 @@ https://github.com/richsalz/ietf-nomcom/blob/main/2020-travel.pdf. It is
 interesting to think about how we can remove this potential barrier to
 leadership participation, which is why I am making it available.
 
-Akamai sees indirect value were I to become the Chair. Akamai does better
+Akamai gets indirect value were I to become the Chair. Akamai does better
 when the Internet does better. We have a history of investing in projects
 that don't directly contribute to our bottom line, including the funding
 of TLS 1.3 with OpenSSL, and being a founding sponsor of LetsEncrypt.
@@ -157,17 +201,32 @@ particularly for W3C and OASIS, was driven by the need to implement the
 standards in commercially-succesful products. I am not a professional
 standards person, I am an implementor who needs standards to succeed.
 
+I bring an understanding of what it means to be a respectful and inclusive
+person, knowing that I am a privileged member of society.  I probably hold
+the official record for apologizing on IETF mailing lists. I hope I can help
+make the IETF a nicer place for all to work.
+
+I bring an understanding of what people need to get started here, and what
+they need to get involved in the technical leadership. The first comes from my
+several years of giving the newcomer's tutorials; the second comes from my own
+recent experience of being a WG co-chair, both on the "newbie" side, and on
+helping to mentor a co-chair when they're the newcomer.
+
+I bring a firm belief in the importance of the IETF's work, and can
+passionately advocate for that while also recognizing that we need to
+get more people involved in it.
+
 >5.3 Describe how you approach team building in a global volunteer
 >organization.
 
 First, things are different now. That is both a problem, but also an
-opportunity.  We have all become used to video meetings, which brings
-its own issues. Among them is that while a would-be participant could get
-funding to attend a one-time IETF meeting, it is probably harder for them ton
-get funding for better connectivity for a long period, even if the
-infrastructure exists. Because of this saying "we're all doing videoconf now"
-still leaves out a pool of contributors. I think we need to make sure we
-allow, and perhaps encourage, other "asynchronous" communication systems.
+opportunity.  We have all become used to video meetings, which brings its own
+issues. Among them is that while a would-be participant could get funding to
+attend a one-time IETF meeting, it is probably harder for them ton get
+funding for better connectivity for a long period, even if the infrastructure
+exists. Because of this saying "we're all doing videoconf now" still leaves
+out a pool of contributors. I think we need to make sure we allow, and
+perhaps encourage, other "asynchronous" messaging or communication systems.
 
 I have no real doubt that in-person face to face helps make things run more
 smoothly, and it's obvious that many of us are eager to be able to get back to
@@ -179,6 +238,8 @@ Perhaps figuring out how to socialize over video will help.  I am not sure.
 
 >5.4 What is your vision for the IETF strategy for the next 5 to 10 years?
 >What concrete steps would you take to make that happen? 
+
+<tbd>
 
 >5.5 How would you handle conflicts of interest between your personal
 >employment or income sources and the interests of the IETF community?
@@ -204,9 +265,28 @@ arising.
 >5.6 What communities and organizations (internal and external) do you 
 >consider to be important to IETF?
 
+<tbd>
+
 >5.7 The IETF faces many challenges. What challenges do you think IETF
 >will be facing in the coming years, and what approach would you take in
 >tackling these challenges?
+
+We need to make sure that the IETF stays relevant and participatory, without
+completely giving up on the principals we hold. This can be hard, when
+industry or national organizations find other SDO's willing to accomodate
+their views, such as weakening the privacy guarantees of TLS, or advocating
+for an entirely new Internet protocol that makes it impossible to protect
+privacy.
+
+We need to reach out and grow participation, so that in twenty years when the
+last attendee of IETF 1 (or IETF 10) has hung up their T-shirt, there's still
+many wearing IETF 100, and even more waiting to get IETF 200.
+
+We also need to make sure that we are not overwhelmed or made irrelevant by
+our friends.  By this, I mean that a couple-dozen engineers at two or three
+companies should not be in the decision to drive the Internet's core
+protocols, no more than any company running a root or a "quad-N" DNS server
+gets to define DNS.
 
 =============================================================================
 
@@ -215,12 +295,21 @@ arising.
 >5.1 What do you see as the role of the IETF Chair as an IAB member? What
 >activities would you like to pursue in IAB?
 
+I think the IAB is a good place to do longer-term activities. The IETF knows
+how to do Working Groups pretty well, but anything else that is focused on
+other than protocol documents is difficult.
+
+I would like to see the IAB create more programs, and work to get more
+involvement in them by reaching outside its comfort zone.
+
 >5.2 As IETF Chair, understanding the standards ecosystem is important.
 >What role do you see the IETF taking in the current Internet ecosystems and
 >standards bodies? Which are the key SDOs and consortia that IETF should
 >strongly cooperate with and why? What are your thoughts regarding ITU-T
 >proposals for creating a new Internet architecture and protocols under 
 >the control of ITU?
+
+<tbd>
 
 =============================================================================
 
@@ -230,14 +319,14 @@ arising.
 >work among the different stakeholders, resolve DISCUSS ballots, and deal with
 >conflicts or competing interests related to DISCUSS disposition?
 
-I believe the IESG Cha
+<tbd>
 
 =============================================================================
 
 >7. LLC Board Role
 
 >NOTE: RFC 8711 states that one of the LLC Board members shall be filled by 
->the &quot;IETF Chair or delegate selected by the IESG&quot;. 
+>the "IETF Chair or delegate selected by the IESG". 
 
 >What do you see as the role of the IESG delegate to the LLC
 >Board, in general and relative to funding the IETF, fundraising, building a 
@@ -245,12 +334,25 @@ I believe the IESG Cha
 >organization-related legal and compliance issues? If you were the delegate, 
 >what experience do you have in these areas?
 
+As described elsewhere in this document, I have worked with a couple of
+non-profits. Early on, I read and provide comments (almost always as pull
+requests), to every initial policy document of the LLC.
+
+<tbd>
+
 =============================================================================
 
 >8. ADDITIONAL INFORMATION
 
 >Is there any other information that you think is relevant to the
 >NomCom's deliberation, but is not covered in the above?
+
+If selected, I would do a great job.
+
+It not selected, I hope that I was able to move the transparency needle a
+little more. It disappoints me that the most open and participatory SDO is so
+obscure and private in the way it picks it leadership.
+<tbd -- remove that sentence?>
 
 =============================================================================
 
@@ -263,6 +365,8 @@ I believe the IESG Cha
 >areas, or leadership bodies. These comments also may include elaborations on
 >any of your above answers, if there are further aspects you would like to
 >mention that you do not want shared with the IAB.
+
+n/a.
 
 >END OF SECTION: NOT FOR CONFIRMING BODY
 
