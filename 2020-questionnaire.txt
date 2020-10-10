@@ -239,6 +239,9 @@ Perhaps figuring out how to socialize over video will help.  I am not sure.
 >5.4 What is your vision for the IETF strategy for the next 5 to 10 years?
 >What concrete steps would you take to make that happen? 
 
+Part of what makes this an interesting question, is that the term of
+office is two years, although most Chairs serve two or three terms.
+Therefore it is hard to 
 <tbd>
 
 >5.5 How would you handle conflicts of interest between your personal
@@ -259,8 +262,8 @@ are.
 
 Should a conflict be discovered, the third step is honest and respectful
 discussion. Some type of recusal might be necessary. I cannot speculate on
-what actions might be required because I cannot imagine any type of problem
-arising.
+what specific actions might be required because I cannot imagine any type of
+problem arising.
 
 >5.6 What communities and organizations (internal and external) do you 
 >consider to be important to IETF?
@@ -280,7 +283,9 @@ privacy.
 
 We need to reach out and grow participation, so that in twenty years when the
 last attendee of IETF 1 (or IETF 10) has hung up their T-shirt, there's still
-many wearing IETF 100, and even more waiting to get IETF 200.
+many wearing IETF 100, and even more waiting to get IETF 200.  I have tried
+to help do that, by founding the first "regional hub" in the Boston area,
+and supported others (such as in India) that seem to still be active.
 
 We also need to make sure that we are not overwhelmed or made irrelevant by
 our friends.  By this, I mean that a couple-dozen engineers at two or three
@@ -350,9 +355,7 @@ requests), to every initial policy document of the LLC.
 If selected, I would do a great job.
 
 It not selected, I hope that I was able to move the transparency needle a
-little more. It disappoints me that the most open and participatory SDO is so
-obscure and private in the way it picks it leadership.
-<tbd -- remove that sentence?>
+little more.
 
 =============================================================================
 
