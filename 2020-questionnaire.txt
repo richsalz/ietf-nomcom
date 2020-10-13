@@ -63,8 +63,8 @@ and clicking on the IETF Chair tab.
 >goals, and risk management).
 
 I have mostly been an individual contributor in software development.  During
-this time, I have often had interns that I was responsible for; I took time
-to give them useful projects and experience and act as a mentor.
+this time, I have had interns that I was responsible for; I took time to give
+them useful projects and experience and act as a mentor.
 
 As a senior individual contributor, I often have to convince product
 management or colleagues to agree to my proposals. Since I am a peer, or
@@ -73,20 +73,20 @@ done. This also holds true for when I am the technical lead, working with
 programming peers. This involves negotiating, explaining the business case or
 potential upside, and the like.
 
-I have often been part of important customer briefings, where I have to draw
-a line giving just the necessary disclosure. I had to be an engaging and
-forthright speaker. I am good at it. In various start-ups I was usually one
-of the prime technical people brought in to prove our competence.  (This
-happened again, just yesterday.)
+I have often given important customer briefings. I had to be an engaging and
+forthright speaker, working to address their concerns, or make the case for
+my employer. I am good at it. In various start-ups I was usually one
+of the prime technical people brought in to prove our competence. This
+still happens.
 
-I have had many sessions of management training, conflict resolution, project
+I have had many classes on management training, conflict resolution, project
 management, and the like. Many years ago at the Open Software Foundation
-this type of thing was central because the industry sponsors had all the money
+these soft skills were central because the industry sponsors had all the money
 and development resources, and we had to work to get them to work together.
 
 For several years I served on the Board of Directors of my church, including
 one year as President. Here we dealt with personnel issues, budget concerns
-(i.e., there was never enough pledge money), and things like conducting a
+(i.e., there was never enough pledge money), and items such as conducting a
 search for a new minister.
 
 During the time I was part of the OpenSSL leadership, I tended to focus on
@@ -99,7 +99,8 @@ an example of transparency, you can see documentation on that at
 https://www.openssl.org/blog/blog/categories/license/  Finally, to show my
 awareness of non-profit issues, I led the work to determine if OpenSSL should
 become a part of the Linux Foundation, the Internet Software Collaborative,
-Apache Foundation, etc.
+Apache Foundation, etc. As a result, I have many contacts in the open source
+community.
 
 As Truman says, "it is amazing what you can accomplish if you do not care who
 gets the credit."  I have experienced this first hand with my best managers,
@@ -116,8 +117,8 @@ best job.
 >positions), in the context of the position you are running for?
 >Describe experience you have in working on diverse teams.
 
-The first principal of my faith is that we believe in "The inherent worth and
-dignity of every person." We are a unique and varied species, and we
+The first principal of my faith is that we affirm "the inherent worth and
+dignity of every person." Humans are a unique and varied species, and we
 sometimes forget that we have more in common than not. One of the things that
 is becoming more common is use of the Internet. The IETF should strive to be
 more representative of the world. While I have problems with RFC 8890, it
@@ -134,8 +135,8 @@ software and it was an eye-opener.
 
 I made a very small pull request to OpenSSL that changed to more inclusive
 language; https://github.com/openssl/openssl/pull/12089.  After much
-discussion, the project decided to vote. After the PR was voted down, I left
-the project because I could not be a part of something that did not hold
+discussion, the leadership decided to vote. After the PR was voted down, I left
+OpenSSL because I could not be a part of something that did not hold
 those values. I currently work on it to meet only Akamai's needs, but frankly
 my heart isn't in it and I can't wait to be completely done.
 
@@ -147,13 +148,13 @@ my heart isn't in it and I can't wait to be completely done.
 >community be improved (please comment on culture, operations, or
 >other topics)?
 
-The mission statement is an accurate description of what we should be doing.
+Our mission statement is an accurate description of what we should be doing.
 We need to make sure that anyone with an interesting idea for an Internet
 protocol will feel welcome to bring it forward, and continue to feel welcome
 even if their idea has already been considered and dropped. Working on that
 last part is hard, and perhaps requires more soft skills than many in our
 industry have. It is also exacerbated by email (to say nothing of social
-media alternative), and it would be good to talk about what to do.
+media), and it would be good to talk about what to do.
 
 Another part of the problem is easier. We need to make sure that the IETF is
 broadly known, and the first thing someone thinks about when thinking about
@@ -180,9 +181,9 @@ meetings, and got information about the length and venue. From that, and
 using my previous travel as a guide, I prepared a very rough cost estimate.
 My management fully supports my nomination, and will fund the travel.  A
 snapshot of the worksheet is available at
-https://github.com/richsalz/ietf-nomcom/blob/main/2020-travel.pdf. It is
-interesting to think about how we can remove this potential barrier to
-leadership participation, which is why I am making it available.
+https://github.com/richsalz/ietf-nomcom/blob/main/2020-travel.pdf. We should
+think about how we can remove this potential barrier to leadership
+participation, which is why I am making it available.
 
 Akamai gets indirect value were I to become the Chair. Akamai does better
 when the Internet does better. We have a history of investing in projects
@@ -226,14 +227,14 @@ need to get more people involved in it.
 >5.3 Describe how you approach team building in a global volunteer
 >organization.
 
-First, things are different now. That is both a problem, but also an
-opportunity.  We have all become used to video meetings, which brings its own
-issues. Among them is that while a would-be participant could get funding to
-attend a one-time IETF meeting, it is probably harder for them ton get
-funding for better connectivity for a long period, even if the infrastructure
-exists. Because of this saying "we're all doing video meetings now" still
-leaves out a pool of contributors. I think we need to make sure we allow, and
-perhaps encourage, other "asynchronous" messaging or communication systems.
+First, things are different now. This is both a problem and an opportunity.
+We have all become used to video meetings, which brings its own issues. Among
+them is that while a would-be participant could get funding to attend a
+one-time IETF meeting, it is probably harder for them to get funding for
+better connectivity for a long period, even if the infrastructure exists.
+Because of this saying "we're all doing video meetings now" still leaves out
+a pool of contributors. We need to make sure we allow, and perhaps encourage,
+other "asynchronous" messaging or communication systems.
 
 I know that in-person face to face helps make things run more smoothly, and
 it's obvious that many of us are eager to be able to get back to that. My
@@ -249,11 +250,12 @@ Perhaps figuring out how to socialize over video will help.  I am not sure.
 Part of what makes this a hard question is that the term of office is two
 years, although most Chairs serve two or three terms.
 
-The IETF should be the first place that anyone working on the Internet
-thinks of, when they want to work with other companies. This means we
-need more name recognition around the industry. One way to do that is
-to put more energy into starting regionals hub's. We also want to be where
-the developers are; the GitHub work is a huge step in the right direction.
+The IETF should be the first place that anyone working on the Internet thinks
+of, when they want to work with other companies. This means we need more name
+recognition around the industry. One way to do that is to put more energy
+into starting regional hubs. We also want to be where the developers are; the
+GitHub work is a huge step in the right direction. We should consult with
+the TODO Group and other open source advocacy organizations.
 
 The news clippings is a great new service, and I am sure that over time it
 will show us where we need to be more pro-active.  Marketing is not a dirty
@@ -264,14 +266,14 @@ some would-be contributors who do not use email. How could we get them
 on-board? Maybe the "Note Well" requirements make it hard, but it shouldn't
 be impossible.
 
-We need to expand our leadership pipeline, so that we can get new WG
-chairs, and new AD's more easily. The rough travel budget shows one
-thing we need to work on. Another is time commitment. Last November,
-there was a long thread on the IETF about AD workload. I particularly
-liked Terry Manderson's message
+We need to expand our leadership pipeline, so that we can get new WG chairs,
+and new AD's more easily. The rough travel budget mentioned above shows one
+thing we need to work on. Another is time commitment. Last November, there
+was a long thread on the IETF about AD workload. I particularly liked Terry
+Manderson's message
 https://mailarchive.ietf.org/arch/msg/ietf/S4xr9MR3usleQ8nCMTACnJ6UWkU/#,
-which talked ways to reduce the AD load. He made several points I agree
-with, and will mention a bit in Section 6 below.
+which talked ways to reduce the AD load. He made several points I agree with,
+and will mention a bit in Section 6 below.
 
 In spite of being involved with the EDU Team for years, I only just learned
 about the EMO directorate. That's wrong, and I doubt I am to blame.
@@ -288,19 +290,21 @@ website, and drafted items like the travel policy.
 The second step is to avoid conflicts if at all possible. In my case, this
 would be making sure I understand the interests of the IETF and Akamai. I
 have been involved with the IETF for years (my name first appears in RFC
-2616), and employed by Akamai for nearly a decade.  I feel confident saying
-that I know what both parties do, how they do it, and what their interests
-are.
+2616), and employed by Akamai for nine years.  I feel confident saying
+that I know what both parties do, how they do it, and what most of their
+interests are.
 
 Should a conflict be discovered, the third step is honest and respectful
 discussion. Some type of recusal might be necessary. I cannot speculate on
 what specific actions might be required because I cannot imagine any type of
-problem arising.
+problem arising, even though I recognize that one could.
 
 >5.6 What communities and organizations (internal and external) do you 
 >consider to be important to IETF?
 
-All of them.  But maybe this is to show that I know them?  Here's a list.
+All of them. :)
+
+But maybe this is to show that I know them?  Here's a list.
 
 ISOC, the Internet Society.  Funding source. Also picks the NomCom chair.
 
@@ -332,16 +336,17 @@ cryptography in the IETF. Also has a chair.
 
 AD's are in charge of areas, and working groups are chartered under an area,
 sometimes two.  WG's have chairs, appointed by the AD for the WG, and WG
-Chairs manage the flow and pick editors of documents the WG adopts.
-
-Externally there are other SDO's.  W3C is an excellent example. We have
-worked jointly on some things, and avoided overlapping on others.
+Chairs manage the process and pick editors of documents the WG adopts.
 
 Since our goal is to produce excellent RFC's, one might think that the
 WG's are the most important. But WG's need external review of their
 documents, and publication. And meetings and mailing lists and videoconf
 to hash things out. All of that requires organization and money, so all
 of the parties listed above are important.
+
+Externally there are other SDO's.  W3C is an excellent example. We have
+worked jointly on some things, and avoided overlapping on others.
+(More on other SDO's below.)
 
 >5.7 The IETF faces many challenges. What challenges do you think IETF
 >will be facing in the coming years, and what approach would you take in
@@ -370,17 +375,19 @@ gets to define DNS.
 
 >5. IAB Role
 
+(You know the numbering got reset here, right?)
+
 >5.1 What do you see as the role of the IETF Chair as an IAB member? What
 >activities would you like to pursue in IAB?
 
-I think the IAB is a good place to do longer-term activities. The IETF knows
-how to do Working Groups pretty well, but anything not focused on
-protocol documents is difficult. The IAB can have a program that runs for
-more than just a single concluding workshop -- more than a super-BoF --
-and help get consensus on large-scale topics.
+the IAB is a good place to do longer-term activities. The IETF knows how to
+do Working Groups pretty well, but anything not focused on protocol documents
+is difficult. The IAB can have a program that runs for more than just a
+single concluding workshop -- more than a super-BoF -- and help get consensus
+on large-scale topics.
 
 I would like to see the IAB create more programs, and work to get more
-involvement in them by reaching outside its comfort zone.
+involvement in them by reaching outside our comfort zone.
 
 >5.2 As IETF Chair, understanding the standards ecosystem is important.
 >What role do you see the IETF taking in the current Internet ecosystems and
@@ -389,25 +396,28 @@ involvement in them by reaching outside its comfort zone.
 >proposals for creating a new Internet architecture and protocols under 
 >the control of ITU?
 
-Wow, that last sentence is almost like the tail wagging the dog.
+Wow, that last sentence is almost like the tail wagging the dog. I wish I
+could read what the other candidates have to say about that.
 
-It's a danger. We have already seen many huge Corporations work to not
-offend one country, or to leave and then try to "wriggle back in" as it
-were by warping their core product. The ITU is nation-focused and its
-"pay to play" structure is top-down. This is similar to ETSI, which has
-a smaller scope, but it did not stop them from defining an alternate
-version of TLS 1.3 that gave up some security guarantees, in the name of
-enterprise management and logging.
+It's a danger. We have already seen many huge Corporations work to not offend
+one country, or to leave and then try to "wriggle back in" as it were by
+warping their core product. The ITU is nation-focused and its "pay to play"
+structure is top-down. This is similar to ETSI, which has a smaller scope,
+but it did not stop them from defining an alternate version of TLS 1.3 that
+gave up some security guarantees, in the name of enterprise management and
+logging.
 
 There is some reason to be less than pessimistic. While one country with
 authoritarian control can create a new Internet with spy controls built-in,
-no one country can provide all of the equipment and protocols for all of
-the world. The question is, can they come close enough to not matter? I
-do not know. But we need to stand as a bulwark against this threat. We
-cannot change the ITU business model, but we can overwhelm them with our
-superior technology and broader, bottom-up, participation.
+no one country can provide all of the equipment and protocols for all of the
+world. The question is, can they come close enough to not matter? I do not
+know. But we need to stand as a bulwark against this threat. We cannot change
+the ITU business model, but we can overwhelm them with our superior
+technology and broader, bottom-up, participation. We should look at more
+explicit partnerships with groups like EFF and Article 19.
 
-As for other SDO's, I see no reason to change how we work with W3C and ETSI.
+As for other SDO's, I see no reason to change how we work with W3C, ETSI,
+and various IEEE groups. OMG and OASIS do not seem relevant right now.
 
 =============================================================================
 
@@ -452,13 +462,13 @@ I have read some of the meeting minutes, and I have commented on
 almost all of the initial policies the LLC posted. In order to get use
 of the IETF logo in GitHub repositories, I worked with the LLC and
 designed an extension to the datatracker (external references) that
-would make this easier to do. I think being able to have the IETF logo
+would make this easier to do. Being able to have the IETF logo
 in multiple repo's on GitHub is good for the IETF.
 
-I am familiar with copyright, licensing, trademark, patent issues. 
+I am familiar with copyright, licensing, trademark, and patent issues. 
 In addition to handling the OpenSSL license change, I set up the
 mechanism to add non-copyrighted contributions (such as fixing typo's)
-into the source base.
+into the source base and dove into the Open Invention Network.
 
 I believe the unique purpose of the IESG delegate is to make sure that
 what the LLC does will be informed by the operational processes of
@@ -466,7 +476,7 @@ the IETF and the IESG. I don't think the LLC should worry about other
 SDO's, for example, but perhaps it would want to fund a marketing campaign to
 get better name recognition.
 
-I think I will be doing a lot of learning as I start this role.
+I will be doing a lot of learning as I start this role.
 
 =============================================================================
 
