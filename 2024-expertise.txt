@@ -1,0 +1,202 @@
+IESG MEMBER DESIRED EXPERTISE
+=============================
+
+This note describes the expertise desired in the candidates selected to
+fill the positions of all IESG members.
+
+Under the Nominations Committee (NomCom) procedures defined in RFC
+7437/BCP 10, the IESG is responsible for providing a summary of the
+expertise desired of the candidates selected for open IESG positions.
+This information is included below and is suitable for publication to
+the community with the NomCom request for nominations.
+
+We realize that this is a long list of desires and that no one person
+will be able to meet all of the expertise for a specific position. We
+trust that the NomCom will weigh all of these qualities and choose IESG
+members who represent the best possible balance of them.
+
+Generic IESG Member Expertise
+-----------------------------
+
+The IESG members are responsible for managing the IETF standards
+process. They must possess a thorough understanding of IETF operations,
+recognize areas in which the organization needs to evolve, and excel in
+collaborative work. They must also be able to inspire and motivate
+volunteers to work together and be adept at handling strong
+personalities and loud voices, fostering an environment in which
+discussions regarding ideas and technical merit may be held freely. An
+important aspect of this is helping newcomers become productive at the
+IETF and developing talent to fill important IETF roles in the future.
+And, of course, IESG members must also have sound technical judgment
+about IETF technology and its relationship to technology developed
+elsewhere.
+
+The Area Director (AD) role includes significant people management, for
+which prior experience chairing a working group will be useful --
+although other people-management experience may be a reasonable
+substitute. ADs select the Working Group (WG) Chairs and then work with
+them to manage IETF WGs. Consequently, IESG members should possess
+sufficient interpersonal and management skills to manage 15 to 30
+part-time volunteers. Most ADs are also responsible for the management
+of one or more directorates or review teams. The ability to identify
+good leaders and technical experts, and then recruit and rotate them for
+IETF work and leadership at all levels is crucial to the growth and
+success of the IETF.
+
+ADs are also expected to recognize the need for changes in IETF
+processes or in the organization's overall role, in response to the
+evolving Internet and industry landscape.
+
+An ideal IESG member has made significant technical contributions in
+more than one IETF Area. Similarly, the ability to review and usefully
+provide feedback on technical documents is a necessary skill for IESG
+members, for which serving on an area directorate or area review team
+would provide useful experience; active participation in working groups
+and other, non-IETF technical review activities can also help build such
+skills. A broad range of technical abilities and the capacity to quickly
+comprehend concepts outside their primary areas of expertise are more
+valuable than specific technical knowledge.
+
+An AD need not be the ultimate expert and authority in any technical
+area. The abilities to manage, guide, and judge consensus, to know who
+the subject-matter experts are and to seek their advice, and to mentor
+other IETF participants to take the technical lead are at least as
+important as their technical abilities. Although the split varies from
+area to area, ADs can expect to spend approximately 30% of their IESG
+time on management tasks, with the remainder of their IESG time being
+spent on technical matters.
+
+An AD must be able to personally review every Internet Draft that they
+sponsor. For other Internet Drafts, an AD needs to be satisfied that
+adequate review has taken place, before bringing the document to the
+IESG, though many ADs personally review these documents as well.
+
+Experience attending multiple IETF meetings, creating Working Group (WG)
+session agendas, supervising WG sessions, and assisting in arranging
+interim WG meetings is highly beneficial for an IESG member.
+
+IESG members must have strong oral and written communication skills.
+They must have a proven track record of leading and contributing to the
+consensus of diverse groups. They must be able to prioritize their work,
+and must reliably follow through and finish the important work items
+promptly.
+
+An IESG member should be able to guide WGs to follow their charters and
+nurture new talent to fulfill IETF leadership roles in the future.
+
+ADs are responsible for ensuring the review of errata; they may delegate
+the review or perform it personally. An AD should be able to process the
+errata, which will often require them to identify and reach out to
+relevant subject-matter experts, for documents that do not have an
+associated Working Group.
+
+ADs engage with IANA to identify and approve designated experts for
+registries created and modified by document actions.
+
+Basic IESG activities can consume significant time during a typical
+non-meeting week. Enough time must be allocated to manage approximately
+10 to 15 working groups, review up to 400 pages of Internet Drafts every
+two weeks, and follow up on document processing tasks. Many ADs allocate
+a minimum of 15 hours per week to such tasks and others up to 25 hours
+per week. Some ADs have been able to combine significant non-IETF
+responsibilities with an AD role and/or delegate work to area
+directorates, while others put a larger proportion of their hours into
+AD responsibilities. ADs should plan to support each other, occasionally
+filling in for colleagues who are unavailable due to work or personal
+matters. A personal commitment is critical.
+
+The time commitment varies by Area and by month, with the most intense
+periods immediately before and during IETF meetings. ADs during their
+first year tend to spend more time per week on AD work. Practices vary
+widely between IESG members, however. Most IESG members also participate
+in additional IETF leadership activities, further increasing the time
+commitment for those individuals. ADs may need to interact with external
+groups such as other standards development organizations (SDOs), which
+may require additional travel. We have also found IESG member in-person
+attendance at most IETF meetings to be imperative, typically arriving
+one or two days early and leaving one day later (to allow for
+pre/post-meeting activities). IESG members also attend one, and
+sometimes two, IESG retreats per year, as well as occasional workshops
+and interim meetings. An IESG member should, ideally, also be
+comfortable with working, and developing professional relationships, in
+a virtual environment.
+
+Because of the time and travel commitments, and awkwardly-timed
+conference calls, IESG members have found that good personal motivation,
+family and sponsor support are important factors in making the role
+successful for them.
+
+WIT AREA DIRECTOR
+=================
+
+See also general expertise for all area directors.
+
+The Web and Internet Transport (WIT) area covers protocols that provide
+the functions of the Transport Layer of the Internet, such as QUIC, TCP,
+UDP, SCTP, and DCCP, including congestion control and queue management.
+It also has responsibility for protocols that implement the World Wide
+Web (like HTTP) and adjacent technologies.  This area is logically
+divided into two parts - transport protocols and web protocols.
+
+Together, the WIT Area Directors are expected to effectively charter,
+manage, and review current and new transport and web protocol work,
+including congestion control, loss recovery, Quality of Service (QoS,
+including Differentiated Services and reservation signaling), Proxying
+and tunneling, QUIC and HTTP protocol extensions, application network
+interaction, real-time communication, and storage protocols for the
+Internet.
+
+At least one of the WIT ADs should have a broad understanding of core
+end-to-end transport topics and knowledge about the widely used
+transport protocols, such as TCP and QUIC, as well as how transport
+protocols interact with network-layer technologies and protocols and
+application layer protocols. The WIT area includes application-layer
+protocols that sit above transport protocols and should not themselves
+be considered "transport," but they are often or usually used by other
+application-layer protocols as a layer between applications and
+transport named "infrastructure protocols." Current work in this
+category includes evolution, maintenance, and extensions to HTTP,
+Audio/Video Transport, and codec development.  The WIT area also
+develops interactive human-to-human communication (see RFC 3550). Groups
+in this category are working on things such as real-time web
+communications, teleconferencing, emergency services communication,
+internet telephony, and instant messaging. At least one of the WIT area
+ADs needs to have a good understanding of infrastructure and real-time
+application protocols. However, they are not expected to be experts on
+all or even most of these topics.  Rather, they are expected to work
+well with WIT Area participants who are experts and to have enough
+familiarity with the principles involved to exercise their judgment
+about what should be done and why.
+
+Because the transport protocol part of the WIT area working groups often
+have common interests with IRTF research groups, especially ICCRG,
+MAPRG, and PANRG, familiarity with these research groups and their
+subject areas is helpful. Having at least one WIT Area AD with some
+background in the broader research community is also helpful. There are
+also open-source communities that implement transport area-related
+protocols which are beneficial to have contact with.
+
+The AD mostly responsible for transport protocols parts of the WIT area
+will manage and recruit volunteers in order to maintain the Transport
+Area Document Review Triage Team ("TSV triage team") and the Transport
+Area Review Team (TSV-ART). The TSV triage team provides support for the
+ADs by assigning document reviews to TSV-ART, and TSV-ART provides
+reviews on request and during Last Call that can be used by the ADs as
+input for their ballot positions. The ADs may delegate any tasks that
+can be delegated, but the ADs themselves still have the ultimate
+responsibility to ensure that transport considerations are appropriately
+taken into account during IESG Evaluation.
+
+Having an overall architectural view of security and privacy, NAT and
+Firewall, encapsulation and tunneling, and higher-layer technologies are
+of added value.
+
+The WIT Area often discusses topics that involve other SDOs. As a
+result, the set of WIT ADs needs to include the ability and experience
+to relate to a wide range of non-IETF organizations, such as the W3C,
+3GPP, and ITU-T.
+
+Together, the WIT ADs are expected to organize their workload, e.g.,
+document review, email discussions as follow-up to document review, IESG
+emails, WG management, etc., in such a way that the average workload for
+each AD is about 20 to 30 hours per week.

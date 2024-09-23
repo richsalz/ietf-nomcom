@@ -1,0 +1,96 @@
+>FORMAT: We ask that you provide us with a response in English using a plain text format (Unicode is OK) wrapped to 77 columns. Please avoid email attachments; our system doesn't handle these well.
+
+>CONFIDENTIALITY: The contents of this questionnaire will remain absolutely confidential to the NomCom and the confirming body, IESG. If you are chosen for a position, the confirming body may see your responses. The section of this questionnaire labeled NOT FOR CONFIRMING BODY will not be provided to the confirming body; it will only be shared with the NomCom.
+
+>POSITION: In answering, please consider the desired expertise for WIT AD position that can be found at the following url: https://datatracker.ietf.org/nomcom/2024/expertise/.
+
+>==================================================================
+
+>Name and Contact Info
+
+>Name:
+>Preferred pronouns:
+>Affiliation:
+>(Consultants/Contractors, please provide the affiliation(s) of your primary customer(s))
+>Email(s):
+>Phone(s):
+>Home Timezone:
+>URL for resume/LinkedIn/etc: (You may link to your resume, or include it below.)
+>URL(s) for other resources (e.g., GitHub):
+
+>==================================================================
+
+>Area Director Position
+>Please explain your understanding of the role, its responsibilities, and
+>its associated workload.
+
+>==================================================================
+
+>Your Area
+
+>State of the area questions: What is your perspective on the current state of
+>the area for which you were nominated? What key achievements would you aim to
+>accomplish as an AD, and how do you plan to achieve them?
+
+>Skills questions: How do your skills and experience contribute to the success
+>of the area, and what specific achievements would you bring that fit the
+>objectives of the Area?
+
+>Incumbent questions: If you are an incumbent, please describe your experience
+>as an area director?
+
+>==================================================================
+
+>Experience
+
+>Leadership Experience: Can you describe any relevant leadership experience you've
+>had, including within volunteer groups? How have these experiences prepared you
+>for the role to which you are nominated?
+>Technical Expertise: Please share any technical expertise that are relevant
+>to the area for which you are nominated.
+
+>==================================================================
+
+>Participation, Diversity, and Mentoring
+
+>Encouraging Participation: Can you share some examples of how you've encouraged
+>new participation in the IETF?
+>Building Future Leadership: What steps have you taken (or plan to take if newly
+>selected) to cultivate a diverse and capable group of individuals who could step
+>into AD role in the future?
+>Diversity in the IETF: How do you envision diversity within the IETF, and how
+>well do you think the current level of participation aligns with that vision?
+
+>==================================================================
+
+>IETF
+
+>What actions should the IETF take to improve the Internet and what steps
+>would you take as AD to enable those actions?
+>What actions should the IETF take to improve the Internet, and how would you
+>contribute to these efforts as part of the IESG? How do you plan to support and
+>encourage new work within the IETF?
+
+>==================================================================
+
+>Additional Information
+
+>If there is any additional information you wish to share with the
+>Nominating Committee and the confirming body IESG, please
+>put it here.
+
+>==============================================================
+
+>NOT FOR CONFIRMING BODY
+
+>Additional Information - For NomCom Only
+>If there is there any additional information you wish to share with the
+>Nominating Committee that will NOT be shared with the confirming body
+>IESG, please put it here. This may include any of: personal
+>identifying information, include additional details about employment or
+>work time issues, opinions or comments on individuals on the various
+>bodies involved in leading the IETF activities, opinions about the direction
+>of working groups, areas, or leadership bodies, and the like. These comments
+>may also include elaborations on any of your above answers, if there
+>are further aspects you would like to mention that you do not want shared
+>outside of NomCom.
