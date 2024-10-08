@@ -1,28 +1,93 @@
->FORMAT: We ask that you provide us with a response in English using a plain text format (Unicode is OK) wrapped to 77 columns. Please avoid email attachments; our system doesn't handle these well.
+>FORMAT: We ask that you provide us with a response in English using a plain
+>text format (Unicode is OK) wrapped to 77 columns. Please avoid email
+>attachments; our system doesn't handle these well.
 
->CONFIDENTIALITY: The contents of this questionnaire will remain absolutely confidential to the NomCom and the confirming body, IESG. If you are chosen for a position, the confirming body may see your responses. The section of this questionnaire labeled NOT FOR CONFIRMING BODY will not be provided to the confirming body; it will only be shared with the NomCom.
+>CONFIDENTIALITY: The contents of this questionnaire will remain absolutely
+>confidential to the NomCom and the confirming body, IESG. If you are chosen
+>for a position, the confirming body may see your responses. The section of
+>this questionnaire labeled NOT FOR CONFIRMING BODY will not be provided to
+>the confirming body; it will only be shared with the NomCom.
 
->POSITION: In answering, please consider the desired expertise for WIT AD position that can be found at the following url: https://datatracker.ietf.org/nomcom/2024/expertise/.
+>POSITION: In answering, please consider the desired expertise for WIT AD
+>position that can be found at the following url:
+>https://datatracker.ietf.org/nomcom/2024/expertise/.
 
 >==================================================================
 
 >Name and Contact Info
 
->Name:
->Preferred pronouns:
->Affiliation:
->(Consultants/Contractors, please provide the affiliation(s) of your primary customer(s))
->Email(s):
->Phone(s):
->Home Timezone:
->URL for resume/LinkedIn/etc: (You may link to your resume, or include it below.)
+>Name: Rich Salz
+>Preferred pronouns: he/him/his
+>Affiliation: Akamai Technologies
+>(Consultants/Contractors, please provide the affiliation(s) of your primary
+>customer(s))
+>Email(s):rsalz@akamai.com
+>Phone(s): +1-781-789-3974
+>Home Timezone: EST/EDT
+>URL for resume/LinkedIn/etc: (You may link to your resume, or include it
+>below.)
 >URL(s) for other resources (e.g., GitHub):
+    DataTracker profile:
+	https://datatracker.ietf.org/person/Rich%20Salz
+    Blog, rarely used:
+	http://richsalz.com
+    Mastodon social media:
+	https://ioc.exchange/@rsalz
+    GitHub:
+	https://github.com/richsalz
+    Resume:
+	https://docs.google.com/document/d/1CX1hkfiid-L9SsSmdl9pqUvJGhM4ZPhGB6nbEBxXdy8/edit
+    or
+	https://tinyurl.com/rsalz-resume
+
+There are also other GitHub organizations and repositories for IETF
+documents I've worked on.
+
+The introductory matter says the confirming body is the IESG. Don't you mean
+the IAB? Did anyone else notice that?
 
 >==================================================================
 
 >Area Director Position
 >Please explain your understanding of the role, its responsibilities, and
 >its associated workload.
+
+One important difference between an AD and a WG Chair, is that the latter
+generally avoids expressing technical opinion as a chair, such as prefacing
+comments by saying "with no hat on." ADs are different, and are expected to
+have opinions, and to express them. While overall cohesion of IETF protocols
+is important, the AD cannot be seen as having a particular "axe to grind."
+This can be difficult. As a recent example, how can one provide feedback on a
+protocol that uses DNS to provide security information, without giving
+the impression of forcing people to use DNSSEC?
+
+It is common for ADs to say it takes a year to figure out how to do the
+job properly. Usually, the point raised is about how to most effectively spend
+your time. But I wonder if part of it is also learning how to balance WG
+consensus against one's personal views?  I think that could be important.
+
+Of course, there is also the need to work well with other members of the IESG.
+I do not believe that takes the first year. If you've ever had to change
+jobs, then it should be possible to adapt to new colleagues in a much shorter
+time.
+
+I have no reason to doubt the time commitment in the expertise document. I
+have a fair amount of experience reading I-Ds; I've been a SECDIR and ARTART
+reviewer for several years. I am a fast reader. Even for programming
+languages, I prefer to first read a (good) book. I am confident about my
+ability to keep up with the required reading.
+
+I have no insight into the other part of the job. I am smart, organized, have
+good social skills, and not-dissimilar experience (see below). I will pick
+things up as I go along. I am confident that if I find anything unusual, I
+will report it so that it can be reflected in future expertise documents.
+For example, I wrote the final report for RFC 9389, and during my NomCom
+Chair, I submitted seven errata against RFC 8713 (no other submissions).
+
+I will note, for example, that there is no discussion in the expertise
+document about the planning and organizing of the IETF meetings, and any
+experiments to be held during those meetings. In fact, the expertise
+is almost all about WGs an drafts.
 
 >==================================================================
 
@@ -32,12 +97,57 @@
 >the area for which you were nominated? What key achievements would you aim to
 >accomplish as an AD, and how do you plan to achieve them?
 
+WIT has only existed for about a year, and I think it's still finding its
+way.  Just like OPS has two ADs, one focused each on operations and
+management, WIT is starting out with one focused on Transport and the other
+one Internet protocols (but not the Internet Protocol). It's reasonable to
+follow the OPS model; I don't know if that was made explicit to NomCom.
+Reading the desired expertise, they want some overlap, but recognize that no
+one person will cover all areas of that protocol stack. I am friendly with
+many IETFers, and I can draw on a large body of expertise within Akamai as well.
+I will be able to separate their technical advice from Akamai's corporate
+position, if that proves to be necessary.
+
+For myself, I am interested in how secure application-oriented protocols can
+be built on top of the common Internet substrate. I do not have specific
+suggestions, but my career at the IETF shows that I am heavily invested in
+bringing in new participants and helping them be succesful here. As a recent
+data point, I am co-chair of the HTTPAPI working group, which when it started
+half of its members had never been to an IETF WG meeting before.
+
+I do not have any specific metrics, such as number of BOFs or WGs that should
+be formed over the next year or two, nor how many WGs should be closed.
+
 >Skills questions: How do your skills and experience contribute to the success
 >of the area, and what specific achievements would you bring that fit the
 >objectives of the Area?
 
+I know how the IETF works. I have written and contributed to several drafts
+and RFCs, and developed code based on standards. I know what makes a good
+standard. I am enthusiastic about the IETF, and am fairly patient with those
+who want to get something done but seem stuck or need help. I am not
+interested in getting my name in the text or on the author list of as many
+RFCs as possible.
+
+I have been giving the Newcomer's tutorial for many years, and am frequently
+contacted by "alumni" to answer their questions or offer advice on how to do
+things.
+
+I don't have solid predictions on what kinds of things will come up -- other
+than it's more likely to be based on QUIC than not. But for those who do
+present ideas, I can promise an open ear, a dedication to the community, and
+advice on how to help them succeed within that community.
+
+I am concerned about the centralization of the browser codebases. This plays
+into WIT because a gating factor that I have often heard mentioned is "if the
+browsers don't do it, what's the point." It is incredibly wrong for Internet
+be unduly influenced by a few dozen engineers at a handful of companies, but I
+don't know how to address that.
+
 >Incumbent questions: If you are an incumbent, please describe your experience
 >as an area director?
+
+I am not an incumbent.
 
 >==================================================================
 
@@ -49,17 +159,100 @@
 >Technical Expertise: Please share any technical expertise that are relevant
 >to the area for which you are nominated.
 
+I have chaired ACME, CURDLE, and currently co-chair HTTPAPI. I was NomCom
+chair, we operated during the major covid time period. I co-authored drafts
+that would/will update the IETF Process and WG procedures (2026 and 2418,
+respectively), and have a forthcoming RFC that updates and clarifies the NTP
+registries and correct historical mistakes; I am also one of the Designated
+Experts for the TLS Registries.  I am writing this to give background for the
+claim I said above: I know how the IETF works, and I explain it to newcomers.
+
+I am on the Governing Board of my Church.  I previously ran the day-to-day
+financial operations of the OpenSSL project. Between those two organizations,
+I understand how non-profits work. At OpenSSL I obtained the clearance from
+contributors, set up the CLA program, and managed the change from a
+proprietary license to the Apache license. I know how copyrights and IPR
+works.
+
+I am on the town Political Committee, participating in get-out-the-vote
+operations, holding signs, and so on. I understand the importance of
+community inolvement.
+
+On the technical front, I have been a recognized contributor to multiple
+security groups, notably TLS and LAMPS. I have made several presentations to
+GENDISPATCH about IETF structure and practices, most in collaboration with
+others. Through HTTPAPI I have learned a great deal about OpenAPI. My
+employer is VERY involved with HTTP, QUIC, media over the Internet (among
+other things we handle the Olympics and Amazon's Thursday Night (American)
+Football). I bring some experience and knowledge to those areas and have
+been able to read most recent drafts without confusion. (I am glad OAUTH
+is not in this area :)
+
+CDNI will be problematic, and I will work with my co-AD to have them be
+responsible for it; I will officially recuse myself from all ballots
+on CDNI documents.
+
 >==================================================================
 
 >Participation, Diversity, and Mentoring
 
 >Encouraging Participation: Can you share some examples of how you've encouraged
 >new participation in the IETF?
+
+In addition to the new participants briefings, I participate in the Education
+and Outreach Directorate (EODIR). I co-chair the WGChairs lunch, where we've
+had education and info-sharing sessions. I founded the Boston-area IETF hub,
+which unfortunately never recovered from Covid (we had a couple of meetings
+a year until that became untenable).
+
 >Building Future Leadership: What steps have you taken (or plan to take if newly
 >selected) to cultivate a diverse and capable group of individuals who could step
 >into AD role in the future?
+
+A WG chair is the stepping-stone to other leadership positions within the
+IETF, and WG chairs are appointed by the ADs. As a non-AD, I don't think
+there is very much one can do, other than point out issues.
+
+In each of ACME and HTTPAPI I trained a co-chair. I also helped my successor
+in ACME understand the job, if only because the timezone distance was zero,
+compared to their co-chair.  I have tried to encourage people to write
+Shepherd documenrts to see what is important when an I-D leaves the WG, but
+rarely succeeded.
+
+I solicited several people to try for various AD roles, including IETF Chair,
+both as NomCom chair and since then. I have submitted my name for NomCom
+membership every time I was eligible (i.e., when not under consideration
+myself).
+
+I have expressed my frustration to various ADs about the "centralization" of
+WG chairs. Roman and Deb might be able to talk to that.  Beyond that, there
+is little I can do. The most important part of the pipeline is the ADs
+selecting WG chairs.
+
+As an AD, when I am introduced to each of the WG's for which I am responsible,
+I would make a point of telling the room "if you are interested in being a
+Chair, please let me know."  I would repeat that on the WG mailing list
+the following week. I would ask each chair how long they've had the job, and
+all current/previous chairs. I would then strongly encourage long-serving
+chairs to nominate a successor and resign. A hallway conversation with the
+current IETF Chair makes me think he would support this kind of thing.
+
+The DataTracker tooling needs to keep track of individual longevity better.
+Perhaps Colin Perkins's study group has some ideas, or RASPRG which I have
+attended. I will be following-up both in November.
+
 >Diversity in the IETF: How do you envision diversity within the IETF, and how
 >well do you think the current level of participation aligns with that vision?
+
+We are not as good as we should be. Even discounting the numbers, the reports
+from the recent survey of how women are treated -- anecdotes from the women
+themselves -- is incredibly disheartening.
+
+One thing I've learned is that you cannot come into a new group and be, to
+use the cliche, "the great white savior." You have to come in and listen.
+It's great to see Systers being part of EODIR meetings. Perhaps we can get
+some ideas from them.
+
 
 >==================================================================
 
@@ -79,6 +272,12 @@
 >Nominating Committee and the confirming body IESG, please
 >put it here.
 
+As with all my previous attempts at IETF leadership, the text of this
+response and the expertise document can be found online:
+	https://github.com/richsalz/ietf-nomcom
+I am confident that anyone can see that I have been consistent on the main
+points for the past eight years.
+
 >==============================================================
 
 >NOT FOR CONFIRMING BODY
@@ -94,3 +293,5 @@
 >may also include elaborations on any of your above answers, if there
 >are further aspects you would like to mention that you do not want shared
 >outside of NomCom.
+
+Nothing.
