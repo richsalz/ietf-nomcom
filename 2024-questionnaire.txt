@@ -86,8 +86,9 @@ meetings and so on.  The expertise document is mostly about WGs and drafts.
 I am smart, organized, have good social skills, and not-dissimilar experience
 (see below). I will pick things up as I go along. I am confident that if I
 find anything unusual, I will report it so that it can be reflected in future
-expertise documents.  For example, I wrote the final report for RFC 9389, and
-during my NomCom Chair, I submitted seven errata against RFC 8713.
+expertise documents.  For example, I did it here, I wrote the final report
+for RFC 9389, and during my NomCom Chair, I submitted seven errata against
+RFC 8713.
 
 >==================================================================
 
@@ -250,14 +251,15 @@ attended. I will be following-up both in November.
 >well do you think the current level of participation aligns with that vision?
 
 We are not as good as we should be. Even discounting the numbers, the reports
-from the recent survey of how women are treated -- anecdotes from the women
-themselves -- is incredibly disheartening.
+from the recent survey of how women are treated[1] -- interviews of 31
+women -- is incredibly disheartening.
 
 One thing I've learned is that you cannot come into a new group and be, to
 use the cliche, "the great white savior." You have to come in and listen.
 It's great to see Systers being part of EODIR meetings. Perhaps we can get
 some ideas from them.
 
+[1] https://www.ietf.org/blog/report-experience-of-women-participating-in-the-ietf/
 
 >==================================================================
 
@@ -269,10 +271,40 @@ some ideas from them.
 >contribute to these efforts as part of the IESG? How do you plan to support and
 >encourage new work within the IETF?
 
+I assume the duplication is a cut and paste error, and the first two lines
+are the old ones.
 
-          *********************
-          *** TO BE WRITTEN ***
-          *********************
+The first item is that the IETF needs to fix itself. According to various
+statistics (Forbes, Statista, others), around 2/3 of the world's 8billion
+population use the Internet. What do they want and need?  We don't know.
+From its beginning, the IETF was mostly populated by academics and engineers
+at US-based networking companies. As the IETF has become more globally-based,
+North America still dominates attendance [1] and Africa, South America, and
+Oceania have remained essentially flat.
+
+What do those areas need, in terms of the IETF scope of work? I don't know,
+and I doubt there are more than a handful in the IETF who would be willing to
+even hazard a guess.
+
+Not only is the IETF not very representational of the World, our membership
+appears to becoming ossified.  Look at Colin Perkins paper on time-based
+participation [2].  Figure 5a is particularly frightening. Of the most
+popular US technology companies (FAANG is the old term), all of whom owe
+their existance to the Internet, one third do not participate.
+
+There is no second item.  A particular effort to encourage new work is not
+needed.  In fact, it runs the risk of increasing centralization and over-work
+for the existing community.  New work will continue come to the IETF
+organically, as it always has.  Instead, we should work to make sure that the
+IETF, which prides itself on being a bottom-up organization, where
+participation can be done solely via email, does a much better job of
+representing everyone. I would encourage the IETF technical and
+administrative leadership to brainstorm on ways to make this happen.
+
+
+[1] https://datatracker.ietf.org/stats/meeting/continent/ (look at the Country
+and Continent tabs)
+[2] https://csperkins.org/publications/2024/06/barnes2024temporal/barnes2024temporal.pdf
 
 >==================================================================
 
