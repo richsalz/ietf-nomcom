@@ -104,7 +104,7 @@ management, WIT is starting out with one focused on Transport and the other
 one Internet protocols (but not the Internet Protocol). It's reasonable to
 follow the OPS model; I don't know if that was made explicit to NomCom.
 Reading the desired expertise, they want some overlap, but recognize that no
-one person will be able to cover all areas in the ARea. I am friendly with
+one person will be able to cover all areas in the Area. I am friendly with
 many IETFers, and I can draw on a large body of expertise within Akamai as
 well. I will be able to separate their technical advice from Akamai's
 corporate position, should that prove necessary.
@@ -112,11 +112,11 @@ corporate position, should that prove necessary.
 For myself, I am interested in how secure application-oriented protocols can
 be built on top of the common Internet substrate. I do not have specific
 suggestions, but my career at the IETF shows that I am heavily invested in
-bringing in new participants and helping them be succesful here. As a recent
+bringing in new participants and helping them be successful here. As a recent
 data point, I am co-Chair of the HTTPAPI working group, which when it started
 half of its members had never been to an IETF WG meeting before.
 
-I do not have any specific metrics, such as number of BOFs or WGs that should
+I do not have any specific metrics, such as number of BoFs or WGs that should
 be formed over the next year or two, nor how many WGs should be closed. I
 look forward to seeing how the GREEN BoF ends up. In the New Participants
 tutorial we say that the IETF is a bottoms-up organization, and I do not
@@ -166,7 +166,7 @@ I am not an incumbent.
 >to the area for which you are nominated.
 
 I have Chaired ACME, CURDLE, and currently co-Chair HTTPAPI. I was NomCom
-Chair, we started during the major Covid time period. I co-authored drafts
+Chair, we started during the major COVID time period. I co-authored drafts
 that would/will update the IETF Process and WG procedures (2026 and 2418,
 respectively). I have a forthcoming RFC that updates and clarifies the NTP
 registries and correct historical mistakes and I I am one of the Designated
@@ -207,9 +207,9 @@ documents.
 
 In addition to the new participants briefings, I attend the pre-meeting
 planing sessions, and the post-meeting wrap-ups. I participate in the
-Education and Outreach Directorate (EODIR). I co-Chair the WGChairs lunch,
+Education and Outreach Directorate (EODIR). I co-Chair the WG Chairs lunch,
 where we've had education and info-sharing sessions. I founded the
-Boston-area IETF hub, which unfortunately never recovered from Covid (we had
+Boston-area IETF hub, which unfortunately never recovered from COVID (we had
 a couple of meetings a year until that became untenable).
 
 >Building Future Leadership: What steps have you taken (or plan to take if newly
@@ -224,7 +224,7 @@ talk to that. Beyond that, there is little I can do. The most important part
 of the pipeline is the ADs selecting WG Chairs.
 
 In each of ACME and HTTPAPI I trained a co-Chair. I also helped my successor
-in ACME understand the job, if only because the timezone distance was zero,
+in ACME understand the job, if only because the time zone distance was zero,
 compared to their co-Chair. I have tried to encourage people to write
 Shepherd documents to see what is important when an I-D leaves the WG, but
 rarely succeeded.
@@ -234,7 +234,7 @@ both as NomCom Chair and since then. I have submitted my name for NomCom
 membership every time I was eligible (i.e., when not under consideration
 myself).
 
-As an AD, when I am introduced to each of the WG's for which I am
+As an AD, when I am introduced to each of the WGs for which I am
 responsible, I would make a point of telling the room "if you are interested
 in being a Chair, please let me know."  I would repeat that on the WG mailing
 list. Privately, I would ask each Chair how long they've had the role, and
@@ -290,7 +290,7 @@ Not only is the IETF not very representational of the World, our membership
 appears to becoming ossified. Look at Colin Perkins paper on time-based
 participation [2]. Figure 5a is particularly frightening. Of the most popular
 US technology companies (FAANG is the outdated term), all of whom owe their
-existance to the Internet, one third do not participate.
+existence to the Internet, one third do not participate.
 
 There is no second item. A particular effort to encourage new work is not
 needed. In fact, it runs the risk of increasing centralization and over-work
