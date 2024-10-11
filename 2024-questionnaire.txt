@@ -43,8 +43,8 @@
 There are also other GitHub organizations and repositories for IETF documents
 I've worked on.
 
-The introductory matter says the confirming body is the IESG, rather than the
-IAB. Did anyone else notice that?
+{The introductory matter says the confirming body is the IESG, rather than the
+IAB. Did anyone else notice that?}
 
 >==================================================================
 
@@ -68,7 +68,7 @@ one's time. But I wonder if part of it is also learning how to balance WG
 consensus against one's personal views?  I think that could be important.
 
 Of course, there is also the need to work well with other members of the
-IESG.  That should not take a year. If you've ever had to change jobs, then
+IESG. That should not take a year. If you've ever had to change jobs, then
 it should be possible to adapt to new colleagues in a much shorter time
 especially given the Zoom expertise we all learned during the pandemic.
 
@@ -78,15 +78,15 @@ reviewer for several years. I am a fast reader. Even for programming
 languages, I prefer to first read a (good) book. I am confident about my
 ability to keep up with the required reading.
 
-I have no insight into the other parts of the job.  I note, for example, that
+I have no insight into the other parts of the job. I note, for example, that
 there is no discussion in the expertise document about the planning and
 organizing of the IETF meetings, any experiments to be held during those
-meetings and so on.  The expertise document is mostly about WGs and drafts.
+meetings and so on. The expertise document is mostly about WGs and drafts.
 
 I am smart, organized, have good social skills, and not-dissimilar experience
 (see below). I will pick things up as I go along. I am confident that if I
 find anything unusual, I will report it so that it can be reflected in future
-expertise documents.  For example, I did it here, I wrote the final report
+expertise documents. For example, I did it here, I wrote the final report
 for RFC 9389, and during my NomCom Chair, I submitted seven errata against
 RFC 8713.
 
@@ -99,14 +99,14 @@ RFC 8713.
 >accomplish as an AD, and how do you plan to achieve them?
 
 WIT has only existed for about a year, and I think it's still finding its
-way.  Just like OPS has two ADs, one focused each on operations and
+way. Just like OPS has two ADs, one focused each on operations and
 management, WIT is starting out with one focused on Transport and the other
 one Internet protocols (but not the Internet Protocol). It's reasonable to
 follow the OPS model; I don't know if that was made explicit to NomCom.
 Reading the desired expertise, they want some overlap, but recognize that no
 one person will be able to cover all areas in the ARea. I am friendly with
 many IETFers, and I can draw on a large body of expertise within Akamai as
-well.  I will be able to separate their technical advice from Akamai's
+well. I will be able to separate their technical advice from Akamai's
 corporate position, should that prove necessary.
 
 For myself, I am interested in how secure application-oriented protocols can
@@ -117,7 +117,7 @@ data point, I am co-Chair of the HTTPAPI working group, which when it started
 half of its members had never been to an IETF WG meeting before.
 
 I do not have any specific metrics, such as number of BOFs or WGs that should
-be formed over the next year or two, nor how many WGs should be closed.  I
+be formed over the next year or two, nor how many WGs should be closed. I
 look forward to seeing how the GREEN BoF ends up. In the New Participants
 tutorial we say that the IETF is a bottoms-up organization, and I do not
 think it is incumbent on ADs to think of all ideas. I am confident that if I
@@ -170,11 +170,11 @@ Chair, we started during the major Covid time period. I co-authored drafts
 that would/will update the IETF Process and WG procedures (2026 and 2418,
 respectively). I have a forthcoming RFC that updates and clarifies the NTP
 registries and correct historical mistakes and I I am one of the Designated
-Experts for the TLS Registries.  I write this to give background for the
+Experts for the TLS Registries. I write this to give background for the
 claim I said above: I know how the IETF works, and I explain it to newcomers.
 
-I am on the Governing Board of my Church.  I previously ran the day-to-day
-operations of the OpenSSL project including its finances.  Between those two
+I am on the Governing Board of my Church. I previously ran the day-to-day
+operations of the OpenSSL project including its finances. Between those two
 organizations, I understand how non-profits work. At OpenSSL I obtained the
 clearance from contributors, set up the CLA program, and managed the change
 from a proprietary license to the Apache license. I know how copyrights and
@@ -182,7 +182,7 @@ IPR works.
 
 I am on my town's $Party Political Committee, participating in
 get-out-the-vote operations, holding signs, and so on. I understand the
-importance of community inolvement.
+importance of community involvement.
 
 On the technical front, I have been a recognized contributor to multiple
 security groups, notably TLS and LAMPS. I have made several presentations to
@@ -206,7 +206,7 @@ documents.
 >new participation in the IETF?
 
 In addition to the new participants briefings, I attend the pre-meeting
-planing sessions, and the post-meeting wrap-ups.  I participate in the
+planing sessions, and the post-meeting wrap-ups. I participate in the
 Education and Outreach Directorate (EODIR). I co-Chair the WGChairs lunch,
 where we've had education and info-sharing sessions. I founded the
 Boston-area IETF hub, which unfortunately never recovered from Covid (we had
@@ -218,15 +218,15 @@ a couple of meetings a year until that became untenable).
 
 A WG Chair is the stepping-stone to other leadership positions within the
 IETF, and WG Chairs are appointed by the ADs. As a non-AD, I don't think
-there is very much one can do.  I have expressed my frustration to various
+there is very much one can do. I have expressed my frustration to various
 ADs about the "centralization" of WG Chairs. Roman and Deb might be able to
-talk to that.  Beyond that, there is little I can do. The most important part
+talk to that. Beyond that, there is little I can do. The most important part
 of the pipeline is the ADs selecting WG Chairs.
 
 In each of ACME and HTTPAPI I trained a co-Chair. I also helped my successor
 in ACME understand the job, if only because the timezone distance was zero,
-compared to their co-Chair.  I have tried to encourage people to write
-Shepherd documenrts to see what is important when an I-D leaves the WG, but
+compared to their co-Chair. I have tried to encourage people to write
+Shepherd documents to see what is important when an I-D leaves the WG, but
 rarely succeeded.
 
 I solicited several people to try for various AD roles, including IETF Chair,
@@ -237,13 +237,13 @@ myself).
 As an AD, when I am introduced to each of the WG's for which I am
 responsible, I would make a point of telling the room "if you are interested
 in being a Chair, please let me know."  I would repeat that on the WG mailing
-list the following week. I would ask each Chair how long they've had the job,
-and any current and previous Chair positions.  I would then strongly
-encourage long-serving Chairs to nominate a successor and resign. A hallway
-conversation with the Roman makes me think he would support this kind of
-thing, but I would first discuss the last point within the IESG.
+list. Privately, I would ask each Chair how long they've had the role, and
+any current and previous Chair positions. I would then strongly encourage
+long-serving Chairs to nominate a successor and resign. A hallway
+conversation with Roman makes me think he would support this kind of thing,
+but I would first discuss the last part within the IESG.
 
-The DataTracker needs to keep track of individual longevity better.  Perhaps
+The DataTracker needs to keep track of individual longevity better. Perhaps
 Colin Perkins's research group has some ideas, or RASPRG which I have
 attended. I will be following-up both in November.
 
@@ -254,8 +254,8 @@ We are not as good as we should be. Even discounting the numbers, the reports
 from the recent survey of how women are treated[1] -- interviews of 31
 women -- is incredibly disheartening.
 
-One thing I've learned is that you cannot come into a new group and be, to
-use the cliche, "the great white savior." You have to come in and listen.
+One thing I've learned is that you cannot come into a new group and
+expect to be able to present all the answers. You have to come in and listen.
 It's great to see Systers being part of EODIR meetings. Perhaps we can get
 some ideas from them.
 
@@ -271,8 +271,8 @@ some ideas from them.
 >contribute to these efforts as part of the IESG? How do you plan to support and
 >encourage new work within the IETF?
 
-I assume the duplication is a cut and paste error, and the first two lines
-are the old ones.
+{I assume the duplication is a cut and paste error, and the first two lines
+are the old ones.}
 
 The first item is that the IETF needs to fix itself. According to various
 statistics (Forbes, Statista, others), around 2/3 of the world's 8billion
@@ -287,15 +287,15 @@ and I doubt there are more than a handful in the IETF who would be willing to
 even hazard a guess.
 
 Not only is the IETF not very representational of the World, our membership
-appears to becoming ossified.  Look at Colin Perkins paper on time-based
-participation [2].  Figure 5a is particularly frightening. Of the most
-popular US technology companies (FAANG is the old term), all of whom owe
-their existance to the Internet, one third do not participate.
+appears to becoming ossified. Look at Colin Perkins paper on time-based
+participation [2]. Figure 5a is particularly frightening. Of the most popular
+US technology companies (FAANG is the outdated term), all of whom owe their
+existance to the Internet, one third do not participate.
 
-There is no second item.  A particular effort to encourage new work is not
-needed.  In fact, it runs the risk of increasing centralization and over-work
-for the existing community.  New work will continue come to the IETF
-organically, as it always has.  Instead, we should work to make sure that the
+There is no second item. A particular effort to encourage new work is not
+needed. In fact, it runs the risk of increasing centralization and over-work
+for the existing community. New work will continue coming to the IETF
+organically, as it always has. Instead, we should work to make sure that the
 IETF, which prides itself on being a bottom-up organization, where
 participation can be done solely via email, does a much better job of
 representing everyone. I would encourage the IETF technical and
